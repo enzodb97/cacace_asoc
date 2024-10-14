@@ -1,0 +1,418 @@
+AWSTATS DATA FILE 6.8 (build 1.910)
+# If you remove this file, all statistics for date 201311 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 1915                
+POS_TIME 2592                
+POS_VISITOR 8411                
+POS_DAY 9922                
+POS_DOMAIN 3282                
+POS_LOGIN 3669                
+POS_ROBOT 3824                
+POS_WORMS 4347                
+POS_EMAILSENDER 4478                
+POS_EMAILRECEIVER 4621                
+POS_SESSION 10530               
+POS_SIDER 10688               
+POS_FILETYPES 4756                
+POS_OS 4909                
+POS_BROWSER 5042                
+POS_SCREENSIZE 5310                
+POS_UNKNOWNREFERER 5384                
+POS_UNKNOWNREFERERBROWSER 5580                
+POS_ORIGIN 5691                
+POS_SEREFERRALS 5826                
+POS_PAGEREFS 5981                
+POS_SEARCHWORDS 6162                
+POS_KEYWORDS 6314                
+POS_MISC 2256                
+POS_ERRORS 6373                
+POS_CLUSTER 3525                
+POS_SIDER_404 6495                
+POS_PLUGIN_geoip_city_maxmind 7645                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20131201010614 13 1752 9142124719809
+FirstTime 20131101154742
+LastTime 20131129013602
+LastUpdate 20131201054735 13 0 10 2 0
+TotalVisits 37                  
+TotalUnique 36                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 39                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 1 924 13 19 248866
+1 9 20 484570 22 23 31171
+2 1 1 325 12 14 7587
+3 7 10 184508 16 28 174939
+4 5 10 23468 15 19 103127
+5 2 2 650 25 32 269425
+6 1 1 325 15 16 17245
+7 4 4 1300 12 13 25770
+8 1 1 325 10 14 23185
+9 1 1 325 13 15 10672
+10 10 126 868427 16 22 18048
+11 0 0 0 10 13 7453
+12 0 0 0 16 16 31796
+13 5 24 525419 12 18 248523
+14 5 31 433234 11 11 6285
+15 1 1 325 14 18 24373
+16 2 2 650 15 17 15375
+17 1 1 325 12 14 7607
+18 2 2 650 22 24 29097
+19 0 0 0 20 36 317082
+20 0 0 0 19 21 26924
+21 4 4 1300 13 15 16792
+22 1 1 325 19 20 36818
+23 3 3 975 14 17 30682
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 14
+us 28 54 913587
+ar 12 165 1572416
+ua 8 8 9389
+il 3 5 21944
+cn 3 3 7439
+ru 2 2 650
+de 2 2 650
+tr 1 1 325
+ph 1 1 325
+by 1 1 325
+gb 1 1 325
+unknown 1 1 325
+ch 1 1 325
+vn 1 1 325
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 11
+bot[+:,\.\;\/\\-] 80 400062 20131130142732 0
+googlebot 63 914536 20131127192049 0
+no_user_agent 19 151571 20131127093628 0
+baiduspider 18 66951 20131128081505 0
+yandex 17 5525 20131128102212 0
+msnbot\-media 17 21307 20131121081120 0
+crawl 5 1625 20131122021331 0
+surveybot 4 14878 20131119205517 0
+netcraft 3 7439 20131110164800 0
+python 1 325 20131105161929 0
+robot 1 325 20131115075650 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+css 21 69287 0 0
+png 90 648554 0 0
+html 65 250281 0 0
+xml 6 11082 0 0
+jpg 17 14374 0 0
+js 47 1534772 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 10
+winxp 50
+winlong 2
+winnt 151
+win2000 2
+win98 1
+linux 4
+macosx 5
+winme 1
+win2003 8
+Unknown 22
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 17
+msie6.0 10
+msie4.01 1
+firefox18.0 2
+firefox24.0 1
+msie8.0 3
+firefox3.5.5 1
+firefox25.0 16
+mozilla 6
+firefox22.0 2
+firefox14.0.1 4
+msie7.0 18
+firefox6.0 2
+firefox3.6.12 2
+firefox3.6.3 1
+msie9.0 1
+Unknown 18
+safari 158
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Mozilla/6.0_(compatible) 20131117030629
+Mozilla/5.0_(compatible) 20131117030633
+panscient.com 20131129013602
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+panscient.com 20131129013602
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 41 57
+From1 0 0
+From2 4 4
+From3 2 2
+From4 18 183
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 4 4
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://www.ausergrubhof.info 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+401 1 666
+400 10 3019
+301 1 289
+404 215 140324
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 40
+/gazette4.pdf 1 -
+/pic/images/6/ANY/7/e/627ecf97fa62251cc59e4026d8f51eb3-0-5708.png 1 -
+/drupal 2 http://cacaceasoc.com/drupal
+/robots.txt 118 -
+/cgi-php 1 -
+/apple-touch-icon.png 1 -
+/recordings/misc/thaer.php 2 -
+/dec_234.pdf 1 -
+/autodiscover/autodiscover.xml 4 -
+/cgi-bin/php 11 -
+/cgi-php5 1 -
+/config/bd_mpc/offers.json 1 -
+/admin/modules/backup/page.backup.php 1 -
+/invoker/JMXInvokerServlet 1 -
+/cgi-bin/php5 1 -
+/cgi-bin/php4 4 -
+/vtigercrm/graph.php 1 -
+/recordings/misc/callme_page.php 2 -
+/cgi-php4 1 -
+/joomla 2 http://cacaceasoc.com/joomla
+/text/xml 1 -
+/wordpress 2 http://cacaceasoc.com/wordpress
+/blog 3 http://cacaceasoc.com/blog
+/CFIDE/administrator/enter.cfm 1 -
+/cgi-bin/php-cgi 1 -
+/user/ 1 -
+/icons/apache_pb.gif 1 -
+/mobile/ 1 -
+//wp-login.php 1 -
+/following-sibling::* 1 -
+/wp 2 http://cacaceasoc.com/wp
+/HNAP1/ 34 http://162.215.248.220/
+/+escapedString.replace(/ 1 -
+/img/PlusHd/banner_fr.png 1 -
+/manager/html 2 -
+/manager/status 1 -
+/www.cacaceasoc.com/Scripts/text/xml 1 -
+/application/json 1 -
+/wp-login.php 1 -
+/cgi-bin/php.cgi 1 -
+END_SIDER_404
+
+# Plugin key - Pages - Hits - Bandwidth - Last access
+BEGIN_PLUGIN_geoip_city_maxmind 18
+ar_rosario_21 0 153 0 0
+unknown 0 18 0 0
+us_short%20hills_nj 0 18 0 0
+ar_tucumán_24 0 12 0 0
+us_redmond_wa 0 9 0 0
+us_washington_dc 0 8 0 0
+us_woodbridge_nj 0 8 0 0
+us_sterling_va 0 4 0 0
+ua_mega_03 0 3 0 0
+us_mountain%20view_ca 0 2 0 0
+vn_biên%20hòa_43 0 1 0 0
+ru_saint%20petersburg_66 0 2 0 0
+cn_jinan_25 0 2 0 0
+us_langhorne_pa 0 1 0 0
+us_seattle_wa 0 2 0 0
+by_grodno_03 0 1 0 0
+ph_cebu_b7 0 1 0 0
+tr_istanbul_34 0 1 0 0
+END_PLUGIN_geoip_city_maxmind
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 39
+200.3.223.237 8 124 867777 20131115105259
+74.105.162.32 7 18 477131 20131129013602
+69.58.178.58 4 4 16449 20131108034828
+38.100.21.63 3 8 23143 20131121042932
+62.219.8.228 3 5 21944 20131117030629
+54.201.52.168 3 3 975 20131121074901
+194.12.74.214 3 3 975 20131124213333
+54.245.33.250 2 2 650 20131122231151
+119.165.203.18 2 2 7439 20131103012852
+66.249.83.221 2 2 7439 20131114140315
+80.86.88.172 1 1 325 20131112074441
+112.198.235.170 1 1 325 20131102131746
+65.55.211.248 1 2 8038 20131127134933
+212.156.129.178 1 1 325 20131128181734
+65.55.218.43 0 7 230773 
+54.254.200.14 1 1 325 20131119063725
+199.30.24.195 0 1 146115 
+176.9.233.141 1 1 325 20131104184417
+54.206.50.101 1 1 325 20131126100348
+107.20.24.202 1 1 325 20131113101510
+199.30.24.118 0 1 924 
+106.37.190.138 1 1 0 20131113043722
+188.190.127.42 1 1 325 20131106164844
+96.227.124.37 1 1 325 20131125211227
+178.255.87.242 1 1 325 20131116163424
+91.200.13.36 1 1 325 20131118091603
+93.77.148.34 1 1 325 20131128053406
+190.2.98.99 1 13 167607 20131116140315
+190.229.206.95 1 12 278844 20131114135504
+192.241.133.111 1 1 325 20131110082856
+50.19.42.39 1 1 325 20131110231711
+146.185.166.216 1 1 325 20131101154742
+200.3.223.67 2 16 258188 20131107144555
+193.105.210.69 2 2 7439 20131126131339
+146.185.165.83 1 1 325 20131111235454
+113.170.12.96 1 1 325 20131123025759
+86.57.162.205 1 1 325 20131127053024
+54.194.41.209 1 1 325 20131113044200
+81.17.16.123 1 1 325 20131123171110
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 27
+20131101 1 1 325 1
+20131102 1 2 1249 1
+20131103 2 2 7439 1
+20131104 1 1 325 1
+20131105 1 1 325 1
+20131106 1 1 325 1
+20131107 2 16 258188 1
+20131108 4 4 16449 1
+20131110 2 2 650 2
+20131111 1 1 325 1
+20131112 1 1 325 1
+20131113 3 3 650 3
+20131114 3 14 286283 2
+20131115 8 124 867777 1
+20131116 2 14 167932 2
+20131117 3 5 21944 1
+20131118 1 1 325 1
+20131119 1 1 325 1
+20131121 6 11 24118 2
+20131122 1 1 325 1
+20131123 2 3 146765 2
+20131124 3 3 975 1
+20131125 1 1 325 1
+20131126 3 3 7764 2
+20131127 2 10 239136 2
+20131128 2 2 650 2
+20131129 7 18 477131 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+5mn-15mn 1
+0s-30s 36
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 8
+/ 39 12350 34 25
+/www.cacaceasoc.com/Home.html 11 78254 1 6
+/www.cacaceasoc.com/Areas_de_Practica.html 5 43425 0 3
+/www.cacaceasoc.com/Socios_%26_Profesionales.html 4 77868 2 2
+/www.cacaceasoc.com/Scripts/ 2 1796 0 1
+/www.cacaceasoc.com/El_Estudio.html 2 34808 0 0
+/www.cacaceasoc.com/Scripts/Widgets/ 1 804 0 0
+/www.cacaceasoc.com/Scripts/Widgets/SharedResources/ 1 976 0 0
+END_SIDER

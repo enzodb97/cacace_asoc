@@ -1,0 +1,816 @@
+AWSTATS DATA FILE 6.8 (build 1.910)
+# If you remove this file, all statistics for date 201801 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 1915                
+POS_TIME 2592                
+POS_VISITOR 16493               
+POS_DAY 21084               
+POS_DOMAIN 3328                
+POS_LOGIN 3829                
+POS_ROBOT 3984                
+POS_WORMS 4433                
+POS_EMAILSENDER 4564                
+POS_EMAILRECEIVER 4707                
+POS_SESSION 21799               
+POS_SIDER 21957               
+POS_FILETYPES 4842                
+POS_OS 4997                
+POS_BROWSER 5119                
+POS_SCREENSIZE 5473                
+POS_UNKNOWNREFERER 5547                
+POS_UNKNOWNREFERERBROWSER 6325                
+POS_ORIGIN 6711                
+POS_SEREFERRALS 6850                
+POS_PAGEREFS 7015                
+POS_SEARCHWORDS 7163                
+POS_KEYWORDS 7315                
+POS_MISC 2256                
+POS_ERRORS 7374                
+POS_CLUSTER 3685                
+POS_SIDER_404 7487                
+POS_PLUGIN_geoip_city_maxmind 15127               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180201013611 33 4307 9427776791333
+FirstTime 20180101014931
+LastTime 20180131191133
+LastUpdate 20180201062933 33 0 29 3 0
+TotalVisits 180                 
+TotalUnique 114                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 123                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 12 14 117258 20 22 33831
+1 13 24 402493 79 82 72573
+2 7 7 2275 30 32 38471
+3 7 7 2275 26 27 27733
+4 6 6 1950 18 18 21890
+5 11 11 3575 19 20 133389
+6 9 9 12390 32 37 152130
+7 7 17 359470 32 34 63934
+8 8 63 864064 22 22 20533
+9 16 32 429119 25 27 48738
+10 4 21 592503 13 15 10840
+11 9 29 717965 49 52 55284
+12 8 19 401193 27 30 29549
+13 7 38 987655 35 35 34202
+14 9 9 2275 27 29 59362
+15 6 6 1950 69 70 62373
+16 6 6 1950 90 90 69127
+17 5 5 1625 22 24 40556
+18 11 11 3575 41 43 36029
+19 8 8 18642 25 28 32839
+20 8 52 565672 48 49 45397
+21 9 9 2925 17 17 13822
+22 6 6 11044 84 84 52341
+23 7 7 1950 22 34 517988
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 23
+us 58 102 1448282
+unknown 36 46 387454
+cn 27 27 8775
+ar 15 178 3641782
+nl 14 14 4550
+gb 8 8 2275
+kr 6 6 1950
+it 5 5 1625
+ua 4 4 1300
+ru 4 4 1300
+tw 1 1 325
+es 1 1 325
+au 1 1 325
+ro 1 1 325
+in 2 2 650
+eu 3 3 975
+id 1 1 325
+br 1 1 325
+pl 4 4 1300
+ca 1 1 325
+za 1 1 325
+de 2 2 650
+sk 3 3 325
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+googlebot 157 566159 20180130163155 0
+bot[+:,\.\;\/\\-] 105 767320 20180131210300 0
+no_user_agent 37 12025 20180131191822 0
+netcraft 9 15104 20180131105950 0
+yandex 3 975 20180129112153 0
+python 2 325 20180125022207 0
+surveybot 2 7552 20180120142656 0
+turnitinbot 1 9419 20180108024153 0
+crawl 1 325 20180126093323 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+css 23 77179 0 0
+png 112 2377794 0 0
+html 199 273562 0 0
+js 66 2747218 0 0
+xml 12 26364 0 0
+jpg 4 3676 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 8
+macosx 52
+winxp 16
+winlong 1
+win2003 8
+winnt 245
+linuxubuntu 1
+Unknown 67
+linux 26
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 25
+msie6.0 4
+firefox57.0 1
+firefox26.0 5
+opera 1
+libwww 2
+firefox52.0 6
+firefox34.0 2
+curl 3
+firefox38.0 13
+firefox45.0 1
+firefox47.0 19
+msie8.0 1
+mozilla 14
+netscape5.0 33
+msie7.0 8
+firefox40.1 1
+firefox3.6.28 1
+msie10.0 2
+firefox9.0.1 1
+wget 3
+msie9.0 3
+Unknown 14
+firefox27.0 1
+firefox36.0 1
+safari 276
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 17
+libwww-perl/6.15 20180103090458
+muhstik-scan 20180130202548
+Mozilla/5.0_Gecko/20100101_Firefox/57.0 20180127205635
+masscan/1.0_(https://github.com/robertdavidgraham/masscan) 20180122151001
+}__test|O:21:\ 20180119093320
+muhstik/1.0 20180130202448
+curl/7.40.0 20180119163207
+SafeDNSBot_(https://www.safedns.com/searchbot) 20180101050453
+Mozilla/5.0_Project_25499_(project25499.com) 20180104172354
+Mozilla/5.0_zgrab/0.x 20180131143329
+yu 20180104074802
+libwww-perl/6.31 20180123100509
+gobyus 20180110142848
+Mozilla/5.0_(compatible;_ips-agent) 20180118191157
+www.probethenet.com_scanner 20180116153528
+Mozilla/5.0 20180131123821
+Mozilla/5.0_(Windows)_Gecko/20100101_Firefox/38.0 20180123010245
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 8
+SafeDNSBot_(https://www.safedns.com/searchbot) 20180101050453
+gobyus 20180110142848
+muhstik-scan 20180130202548
+yu 20180104074802
+masscan/1.0_(https://github.com/robertdavidgraham/masscan) 20180122151001
+}__test|O:21:\ 20180119093320
+muhstik/1.0 20180130202448
+www.probethenet.com_scanner 20180116153528
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 172 184
+From1 0 0
+From2 11 14
+From3 0 0
+From4 16 218
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 10 13
+aol 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+405 1 497
+400 28 13916
+404 575 279314
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 294
+//phpMyAdmin-2.6.1-pl2/ 1 -
+http://steamcommunity.com:80/market/listings/730/Souvenir%20USP-S%20%7C%20Night%20Ops%20%28Battle-Scarred%29 1 -
+/Security/users 1 http://162.215.248.220:80/Security/users
+/admin.php 3 -
+/ckeditor/editor/dialog/fck_about.html 2 -
+/.hg/dirstate 1 -
+//phpMyAdmin-2.7.0-beta1/ 1 -
+/admin/loading.php 1 -
+/xmlrpc.php 2 -
+//phpMyAdmin-2.6.2-pl1/scripts/setup.php 1 -
+//phpmyadmin2/ 1 -
+//PMA2011/ 1 -
+/index.php/admin 1 -
+/admin_manage_access/ 2 -
+//phpmanager/scripts/setup.php 1 -
+/wp-log/push.php 1 -
+/fckedit/editor/dialog/fck_about.html 2 -
+/checkadmin/ 2 -
+/AdminWeb/ 2 -
+/currentsetting.htm 1 -
+//web/phpMyAdmin/scripts/setup.php 1 -
+//phpmy-admin/ 1 -
+/_whatsnew.html 2 -
+//phpmyadmin1/scripts/setup.php 1 -
+//admn/scripts/setup.php 1 -
+/sysadm/ 2 -
+//phpMyAdmin-2.5.4/ 1 -
+/backups.php 1 -
+/current_config/passwd 1 -
+/site/CHANGELOG.txt 1 -
+/.bzr/branch-format 1 -
+/1/loading.php 1 -
+//admm/scripts/setup.php 1 -
+//phpMyAdmin-2.5.5-rc2/ 1 -
+/administrator/ 2 -
+/wp-login.php 9 http://cacaceasoc.com/wp-login.php
+/system/ 2 -
+/tj.php 1 -
+/dec_234.pdf 4 -
+//phpMyAdmin-2.5.1/scripts/setup.php 1 -
+/dec_258.pdf 4 -
+/panel/loading.php 1 -
+/www.cacaceasoc.com/socios_%26_profesionales.html 1 -
+/license.txt 1 http://cacaceasoc.com/license.txt
+//phpMyAdmin-2.8.0-rc2/scripts/setup.php 1 -
+//databaseadmin/scripts/setup.php 1 -
+//phpMyAdmin-2.6.4-pl3/ 1 -
+//phpMyAdmin-2.6.2-beta1/ 1 -
+/blog/CHANGELOG.txt 1 -
+/inc/ 2 -
+//admin/pma/scripts/setup.php 2 -
+/license.php 3 -
+//phpMyAdmin-2.6.0/scripts/setup.php 1 -
+/.hg/hgrc 1 -
+/Panelll/loading.php 1 -
+/sysadmin/ 2 -
+/yt.php 1 -
+/up.php 13 -
+/panel2asdasd/up.php 1 -
+/jackposv2/loading.php 1 -
+/%20www.cacaceasoc.com/Home.html 1 -
+/getcfg.php 4 -
+/security.txt 2 -
+/admin_manage/ 2 -
+/inc/editor/ 2 -
+//php-myadmin/ 1 -
+//webdb/ 1 -
+//phpMyAdmin-2.5.5-rc1/ 1 -
+//phpMyAdmin-2.6.2-rc1/ 2 -
+/ccvv 9 -
+/category/catno/32 1 -
+/robots.txt 86 -
+//phpMyAdmin-2.6.1-pl3/ 1 -
+/manager/ 3 -
+//websql/ 1 -
+//php-myadmin/scripts/setup.php 1 -
+/manage/ 2 -
+//phpMyAdmin-2.8.1-rc1/scripts/setup.php 1 -
+/RPC2 2 -
+/shop/CHANGELOG.txt 1 -
+/.ftpconfig 4 -
+/HTMLEditor/ 2 -
+/forum/CHANGELOG.txt 1 -
+/jk/loading.php 1 -
+//phpMyAdmin-2.6.2-pl1/ 1 -
+//php-my-admin/scripts/setup.php 1 -
+/a/loading.php 1 -
+/.git/config 1 -
+/editor/dialog/fck_about.html 2 -
+//phpMyAdmin-2.2.6/ 1 -
+/gate 1 -
+/moo 1 -
+//phpMyAdmin-2.8.0-rc1/scripts/setup.php 1 -
+/alinew/loading.php 1 -
+/drupal/CHANGELOG.txt 1 -
+//phpMyAdmin-2.6.3-pl1/ 1 -
+//phpMyAdmin-2.6.4/ 1 -
+//phpMyAdmin-2.6.4-pl1/ 1 -
+//phpMyAdmin-2.2.3/scripts/setup.php 1 -
+//admin/scripts/setup.php 2 -
+//phpMyAdmin-2.6.4-rc1/ 1 -
+/lieats.php 1 -
+/fileadmin/ 2 -
+/admin/ 2 -
+/FCKeditor/editor/dialog/fck_about.html 2 -
+//phpMyAdmin-2.6.4-pl2/ 1 -
+/kp/loading.php 1 -
+//phpMyAdmin-2/ 1 -
+//phpMyAdmin-2.6.1-pl1/scripts/setup.php 1 -
+/dec_248.pdf 4 -
+/do.php 1 -
+/nmaplowercheck1515988266 1 -
+/redirect.php 1 -
+/typo3/ 1 -
+/spa122.cfg 1 -
+/fck/_whatsnew.html 2 -
+/jackposv1/loading.php 1 -
+//PMA2012/ 1 -
+/Panel/loading.php 1 -
+/wp-rdf.php 1 -
+//php-my-admin/ 1 -
+/pma/scripts/setup.php 4 -
+/loading.php 1 -
+/store/CHANGELOG.txt 1 -
+/FCK/_whatsnew.html 2 -
+/FCK/editor/dialog/fck_about.html 2 -
+/login.asp 1 http://162.215.248.220/login.asp
+/dh/count.asp 1 -
+/phpmyadmin/index.php 1 -
+/forum/login.php 1 -
+/www.cacaceasoc.com/el_estudio.html 1 -
+//mysqladmin/ 1 -
+//phpMyAdmin-2.8.0-beta1/scripts/setup.php 1 -
+/scripts/ajax/ 2 -
+/sftp-config.json 3 -
+/.git/HEAD 1 -
+/contact 12 CACACEASOC.com
+/cgi/common.cgi 4 -
+/stssys.htm 3 -
+/invoker/JMXInvokerServlet 2 -
+/Fck/_whatsnew.html 2 -
+/folder/gate.php 1 -
+/wp-feed.php 1 -
+/whynot/sam.php 1 -
+//phpMyAdmin-2/scripts/setup.php 1 -
+//PMA2013/ 1 -
+/processlogin/ 2 -
+/common/ 2 -
+//MyAdmin/scripts/setup.php 3 -
+//phpMyAdmin-2.6.3-rc1/ 1 -
+//phpMyAdmin-2.6.1/scripts/setup.php 1 -
+//phpMyAdmin-2.6.2-beta1/scripts/setup.php 1 -
+/Admin/ 2 -
+/.svn/wc.db 1 -
+//phpMyAdmin-2.2.6/scripts/setup.php 1 -
+/webadmin/ 2 -
+/plugins/community/uploadify/uploadify.css 1 -
+/pub/adobe/reader/win/11.x/11.0.11/misc/AdbeRdrUpd11011_incr.msp 1 -
+/library/firstDetect.js.php 1 -
+//phpMyAdmin-2.5.1/ 1 -
+//phpMyAdmin-2.6.1-rc2/scripts/setup.php 1 -
+/wordpress/post.php 1 -
+//dbadmin/ 1 -
+//phpMyAdmin-2.5.5/ 1 -
+/evox/about 1 -
+/cache/cachee.php 1 -
+//phpMyAdmin-2.8.0/scripts/setup.php 1 -
+/HNAP1 1 -
+//mysql-admin/scripts/setup.php 1 -
+/spa112.cfg 1 -
+/phpMyAdmin/scripts/setup.php 4 -
+/FCKEditorV2/editor/dialog/fck_about.html 2 -
+/js/ajax/ 2 -
+/phpinfo.php 2 -
+//pma/scripts/setup.php 5 -
+//phpmyadmin/scripts/setup.php 3 -
+//phpMyAdmin-2.8.2/scripts/setup.php 1 -
+/js/lib/ 2 -
+/README.txt 1 http://cacaceasoc.com/README.txt
+/alina/loading.php 1 -
+//phpMyAdmin-2.6.2-rc1/scripts/setup.php 1 -
+/post/echo 1 -
+/libraries/sfn.php 1 -
+//mysqladmin/scripts/setup.php 2 -
+/www.cacaceasoc.com/english.html 1 -
+//phpMyAdmin-2.6.2/ 1 -
+//phpMyAdmin-2.6.4-pl4/ 1 -
+//sqlweb/ 1 -
+/extralog/loading.php 1 -
+/jackposprivate12/loading.php 1 -
+/sip.cfg 1 -
+//myadmin/scripts/setup.php 5 -
+/media/media.php 1 -
+/tmUnblock.cgi 1 -
+/control/ 2 -
+/CFIDE/scripts/ajax/ 2 -
+/moderator/ 2 -
+/javascripts/ajax/ 2 -
+/html/js/ 2 -
+/fck2/_whatsnew.html 2 -
+/1.php 1 -
+//dbadmin/scripts/setup.php 2 -
+/ckeditor/_whatsnew.html 2 -
+//PMA/ 1 -
+/js/ 2 -
+/administrator/index.php 1 -
+/fckeditor/editor/dialog/fck_about.html 2 -
+/wp-register.php 1 -
+/deployment-config.json 2 -
+//phpMyAdmin-2.6.0-rc1/scripts/setup.php 1 -
+//phpMyAdmin-2.6.0-rc2/scripts/setup.php 1 -
+/FCKEditorV2/_whatsnew.html 2 -
+//phpmyadmin/ 1 -
+/phpmyadmin 1 http://162.215.248.220/phpmyadmin
+/javascripts/ 2 -
+/.vscode/ftp-sync.json 4 -
+//phpMyAdmin2/ 1 -
+//mysqlmanager/scripts/setup.php 1 -
+/sitemap.xml 3 -
+/upload/_dispatch.php 1 -
+/test/CHANGELOG.txt 1 -
+/fckedit/_whatsnew.html 2 -
+//scripts/setup.php 1 -
+/FCKeditor/_whatsnew.html 2 -
+/modules/index.html 1 http://cacaceasoc.com/modules/index.html
+/admin_area/ 2 -
+//phpMyAdmin-2.5.6-rc1/ 1 -
+/uploads/ 2 -
+//phpMyAdmin-2.8.1/scripts/setup.php 1 -
+/admin/index.php 1 -
+//phpadmin/scripts/setup.php 2 -
+//webadmin/ 1 -
+/newsadmin/ 2 -
+/modules/mod_feed/tmpl/mod_feed.php 2 -
+//phpMyAdmin-2.2.3/ 1 -
+/Editor/ 2 -
+/KlfhsYYs 1 -
+/www.cacaceasoc.com/areas_de_practica.html 1 -
+/cache.php 1 -
+/webdav 1 -
+/fck2/editor/dialog/fck_about.html 2 -
+/dec_235.pdf 4 -
+/adm/ 2 -
+/dec_212.pdf 4 -
+/includes/ 2 -
+/myadmin/scripts/setup.php 3 -
+//phpMyAdmin-2.6.3/ 2 -
+/fck/editor/dialog/fck_about.html 2 -
+/.svn/entries 1 -
+//mysql/ 1 -
+//phpmyadmin2/scripts/setup.php 1 -
+/fckeditor/_whatsnew.html 2 -
+/webmaster/ 2 -
+/jacpos/loading.php 1 -
+/includes/editor/ 2 -
+/hndUnblock.cgi 2 -
+/.remote-sync.json 2 -
+//xampp/phpmyadmin/scripts/setup.php 1 -
+/vcxud91x83/loading.php 1 -
+//phpMyAdmin-2.7.0-rc1/ 1 -
+/sdk 1 -
+/phpmyadmin/scripts/setup.php 8 -
+/scripts/ 2 -
+/.env 2 -
+//mysql-admin/ 1 -
+/muieblackcat 5 -
+/admin888/ 2 -
+//phpMyAdmin-2.6.0-rc3/scripts/setup.php 1 -
+//phpMyAdmin-2.6.1-rc1/scripts/setup.php 1 -
+//db/scripts/setup.php 2 -
+/000000000000.cfg 1 -
+//phpMyAdmin-2.7.0-pl1/ 1 -
+/nice%20ports%2C/Tri%6Eity.txt%2ebak 1 -
+/CHANGELOG.txt 1 -
+/user/ 1 -
+//phpMyAdmin-2.5.5-pl1/ 1 -
+/command.php 4 -
+/jackpos/loading.php 1 -
+/Fck/editor/dialog/fck_about.html 2 -
+//admin/phpmyadmin/scripts/setup.php 2 -
+/invoker/readonly 1 -
+/cod.php 1 -
+//phpMyAdmin-2.6.1-pl2/scripts/setup.php 1 -
+//typo3/phpmyadmin/scripts/setup.php 1 -
+/lib/ 2 -
+//admin/ 1 -
+//phpMyAdmin-2.6.1-pl3/scripts/setup.php 1 -
+/aspq/aspx.gif 1 -
+/manager/html 4 -
+//myadmin/ 1 -
+//phpMyAdmin/scripts/setup.php 3 -
+/index.php 1 -
+//mysql/scripts/setup.php 2 -
+/.hg/requires 1 -
+END_SIDER_404
+
+# Plugin key - Pages - Hits - Bandwidth - Last access
+BEGIN_PLUGIN_geoip_city_maxmind 42
+unknown 0 191 0 0
+ar_buenos%20aires_07 0 38 0 0
+cn_shenzhen_30 0 16 0 0
+us_trumbull_ct 0 13 0 0
+us_woodinville_wa 0 13 0 0
+nl_rotterdam_11 0 11 0 0
+us_mountain%20view_ca 0 11 0 0
+ar_moreno_01 0 11 0 0
+us_norwalk_ct 0 11 0 0
+ar_matheu_01 0 11 0 0
+us_sterling_va 0 3 0 0
+cn_shanghai_23 0 1 0 0
+ru_solnechnogorsk_47 0 1 0 0
+cn_beijing_22 0 3 0 0
+us_san%20diego_ca 0 7 0 0
+ru_saint%20petersburg_66 0 2 0 0
+sk_bratislava_02 0 3 0 0
+us_ann%20arbor_mi 0 4 0 0
+us_oakland_ca 0 1 0 0
+pl_henryk_84 0 3 0 0
+us_los%20angeles_ca 0 1 0 0
+id_jakarta_04 0 1 0 0
+us_martinsville_va 0 3 0 0
+us_redmond_wa 0 7 0 0
+us_washington_dc 0 8 0 0
+in_mumbai_16 0 2 0 0
+ua_pavlovo%20pole_07 0 1 0 0
+es_viladecáns_56 0 1 0 0
+gb_alexandria_w7 0 3 0 0
+tw_taipei_03 0 1 0 0
+ca_ottawa_on 0 1 0 0
+us_seattle_wa 0 7 0 0
+br_goiânia_29 0 1 0 0
+kr_seoul_11 0 6 0 0
+it_cesena_05 0 1 0 0
+us_west%20covina_ca 0 1 0 0
+it_rome_07 0 4 0 0
+us_san%20francisco_ca 0 1 0 0
+us_wilmington_de 0 2 0 0
+au_saint%20peters_02 0 1 0 0
+ro_galati_18 0 1 0 0
+us_woodbridge_nj 0 8 0 0
+END_PLUGIN_geoip_city_maxmind
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 123
+60.191.38.78 16 16 5200 20180131053221
+13.56.229.65 10 10 3250 20180130162324
+172.104.108.109 8 8 2600 20180131000551
+164.52.24.140 6 6 1950 20180128021937
+209.126.136.4 5 5 1625 20180131060050
+139.162.114.70 5 5 1625 20180130003902
+190.151.160.89 5 60 863089 20180117084936
+139.162.119.197 4 4 1300 20180115123129
+164.132.91.1 4 4 1300 20180128165102
+5.188.87.7 4 4 1300 20180128210542
+107.170.226.204 1 1 325 20180126144436
+203.41.204.50 1 1 325 20180106130948
+201.216.239.16 1 11 357845 20180117101034
+181.90.223.171 2 46 563722 20180121203446
+146.0.77.232 1 1 325 20180123114844
+94.102.49.193 1 1 325 20180109235819
+182.48.105.210 1 1 325 20180102162032
+66.249.85.4 1 5 152247 20180128112919
+190.226.101.42 0 2 113358 
+88.99.99.145 1 1 325 20180108184808
+211.115.79.122 1 1 325 20180105054921
+98.143.148.135 1 1 325 20180104172354
+210.14.78.91 1 1 325 20180117141014
+52.53.168.118 1 1 0 20180101014931
+5.101.6.170 1 1 325 20180117014455
+104.192.74.18 1 1 325 20180120191916
+181.91.249.58 1 11 357845 20180109074148
+66.215.76.157 1 1 325 20180131123821
+179.217.177.48 1 1 325 20180113125818
+62.11.33.113 1 1 325 20180119163207
+190.225.168.88 1 11 357845 20180116113337
+46.161.9.57 2 2 650 20180120090316
+107.170.253.245 1 1 325 20180129160831
+51.254.139.2 1 1 325 20180118015542
+178.79.181.200 1 1 325 20180125210121
+188.226.190.99 1 1 325 20180101050453
+66.249.85.2 0 5 204934 
+67.227.100.2 1 1 325 20180124183011
+54.175.167.156 1 1 325 20180113124655
+54.164.229.24 1 1 325 20180116170816
+178.33.54.161 1 1 325 20180117170147
+65.55.210.80 0 1 36124 
+47.203.88.202 1 1 325 20180117005513
+88.99.68.199 1 1 325 20180125043613
+107.170.229.27 1 1 325 20180130152529
+107.22.118.133 1 1 325 20180101062710
+65.55.210.208 0 1 5986 
+65.55.210.128 0 1 146115 
+101.236.62.4 1 1 325 20180101094412
+178.33.39.197 1 1 325 20180124035529
+58.239.218.82 1 1 325 20180116115337
+196.52.84.8 1 1 325 20180127205635
+162.243.158.237 1 1 325 20180121202721
+54.198.185.204 1 1 325 20180113144043
+176.116.18.144 1 1 325 20180130004138
+23.245.207.23 1 1 325 20180115065555
+54.201.160.29 1 1 325 20180128233059
+183.129.160.229 3 3 975 20180126004837
+5.188.211.13 1 1 9790 20180103062405
+121.147.42.186 4 4 1300 20180115033354
+185.35.63.69 1 1 325 20180104074802
+91.127.36.106 3 3 325 20180110142848
+179.156.160.156 1 1 325 20180128110444
+38.100.21.65 3 8 26301 20180115094733
+185.4.65.44 1 1 325 20180115001038
+66.70.182.99 2 13 399243 20180127125641
+110.177.87.165 1 1 325 20180128013331
+104.236.162.101 1 1 325 20180108231814
+139.162.108.53 2 2 650 20180112002401
+106.75.85.117 1 1 325 20180115185337
+54.225.50.47 1 1 325 20180101040838
+141.212.122.128 1 1 325 20180123074928
+85.25.117.53 1 1 325 20180106181219
+152.170.146.75 1 11 357845 20180125135305
+192.95.29.60 1 1 325 20180106052232
+185.100.87.247 1 1 0 20180110071232
+52.90.219.83 1 1 325 20180108151830
+65.55.210.180 0 2 5230 
+157.52.157.130 1 1 325 20180129110332
+185.110.132.232 1 1 325 20180124082751
+54.235.53.15 1 1 0 20180131191133
+74.121.190.226 2 13 399243 20180123010244
+163.172.169.150 3 3 975 20180121020837
+201.179.59.164 0 1 13021 
+104.131.149.222 1 1 325 20180120222435
+65.55.210.146 0 2 40228 
+114.143.167.198 2 2 650 20180126011618
+66.240.213.92 1 1 325 20180122151001
+93.174.93.38 1 1 325 20180105052522
+191.113.203.22 1 1 325 20180117090700
+46.227.136.189 1 1 325 20180105115605
+114.24.49.101 1 1 325 20180118212353
+71.6.146.185 1 1 325 20180106195539
+104.236.137.222 1 1 325 20180108231737
+195.22.127.235 3 3 975 20180119093320
+24.125.128.243 3 3 975 20180130202548
+172.104.182.103 1 1 325 20180112130832
+141.212.122.81 1 1 325 20180131143329
+109.86.210.25 1 1 325 20180126023153
+175.152.28.44 1 1 325 20180104191014
+46.29.161.21 1 1 325 20180103090458
+104.128.144.131 1 1 325 20180116153528
+120.35.38.207 1 1 325 20180106182601
+189.63.85.59 1 1 325 20180123045615
+54.144.97.149 1 1 325 20180126044629
+169.229.3.90 1 1 325 20180108115436
+91.200.12.49 2 2 650 20180105224234
+66.249.85.31 0 1 664 
+45.32.222.126 1 1 325 20180122181824
+81.38.33.12 1 1 325 20180114010207
+141.212.122.144 2 2 650 20180116043148
+69.58.178.57 3 3 17342 20180118191157
+5.188.211.10 1 1 9419 20180103223631
+180.169.191.142 1 1 325 20180123184916
+185.22.152.37 1 1 325 20180124025848
+190.190.190.8 1 11 357845 20180125134835
+190.192.56.194 4 25 657212 20180104135523
+158.46.218.194 1 1 325 20180105054852
+198.20.69.98 1 1 325 20180107123741
+94.177.238.191 1 1 325 20180123100509
+51.15.95.136 1 1 0 20180126232843
+13.57.35.134 1 1 325 20180115004817
+54.149.148.222 1 1 325 20180101035527
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20180101 7 7 1950 7
+20180102 4 4 1300 4
+20180103 11 11 22134 11
+20180104 9 32 772195 7
+20180105 8 8 2600 8
+20180106 9 9 2925 9
+20180107 2 2 650 2
+20180108 7 7 2275 7
+20180109 7 17 359795 7
+20180110 6 6 975 4
+20180111 3 10 234658 3
+20180112 5 5 1625 5
+20180113 5 5 1625 5
+20180114 3 3 975 3
+20180115 10 15 28576 8
+20180116 5 16 372166 5
+20180117 15 80 1223859 11
+20180118 7 7 18642 5
+20180119 5 5 1625 3
+20180120 5 5 1625 5
+20180121 6 50 565022 5
+20180122 4 4 1300 4
+20180123 10 21 401843 9
+20180124 4 4 1300 4
+20180125 6 26 716990 6
+20180126 7 7 1950 7
+20180127 4 15 399893 3
+20180128 8 18 360120 8
+20180129 3 3 975 3
+20180130 8 8 2600 6
+20180131 6 6 1625 6
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+30s-2mn 3
+0s-30s 177
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 7
+/ 174 54600 168 162
+/www.cacaceasoc.com/Socios_%26_Profesionales.html 10 94190 8 9
+/www.cacaceasoc.com/Home.html 6 43362 0 3
+/www.cacaceasoc.com/Areas_de_Practica.html 5 48950 2 3
+/www.cacaceasoc.com/El_Estudio.html 2 31810 0 1
+http://httpheader.net/ 1 325 1 1
+// 1 325 1 1
+END_SIDER

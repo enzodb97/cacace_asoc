@@ -1,0 +1,249 @@
+AWSTATS DATA FILE 6.8 (build 1.910)
+# If you remove this file, all statistics for date 201301 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 1915                
+POS_TIME 2598                
+POS_VISITOR 3264                
+POS_DAY 3590                
+POS_DOMAIN 3740                
+POS_LOGIN 4002                
+POS_ROBOT 4157                
+POS_WORMS 4289                
+POS_EMAILSENDER 4420                
+POS_EMAILRECEIVER 4563                
+POS_SESSION 4639                
+POS_SIDER 4826                
+POS_FILETYPES 5170                
+POS_OS 5328                
+POS_BROWSER 5378                
+POS_SCREENSIZE 5439                
+POS_UNKNOWNREFERER 5513                
+POS_UNKNOWNREFERERBROWSER 5600                
+POS_ORIGIN 5682                
+POS_SEREFERRALS 5817                
+POS_PAGEREFS 5961                
+POS_SEARCHWORDS 6109                
+POS_KEYWORDS 6261                
+POS_MISC 2262                
+POS_ERRORS 6320                
+POS_CLUSTER 3858                
+POS_SIDER_404 6405                
+POS_PLUGIN_geoip_city_maxmind 6512                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20130201000853 884 276871 19791005603458
+FirstTime 20130131204947
+LastTime 20130131225927
+LastUpdate 20130201103345 884 0 883 0 0
+TotalVisits 7                   
+TotalUnique 6                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 6                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 0 0 0 0 0 0
+9 0 0 0 0 0 0
+10 0 0 0 0 0 0
+11 0 0 0 0 0 0
+12 0 0 0 0 0 0
+13 0 0 0 0 0 0
+14 0 0 0 0 0 0
+15 0 0 0 0 0 0
+16 0 0 0 0 0 0
+17 0 0 0 0 0 0
+18 0 0 0 0 0 0
+19 0 0 0 0 0 0
+20 1 10 65885 0 0 0
+21 0 0 0 1 1 540
+22 64 870 5043354 0 0 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 6
+200.126.144.234 24 338 652382 20130131225637
+100.2.66.22 23 307 2103074 20130131225927
+72.0.209.110 5 72 652382 20130131222347
+198.228.201.154 5 67 652382 20130131225825
+190.192.46.123 5 81 651133 20130131224015
+181.94.135.132 3 15 397886 20130131223614
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 1
+20130131 65 880 5109239 7
+END_DAY
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+ar 32 434 1701401
+us 28 374 2755456
+ca 5 72 652382
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+5mn-15mn 1
+2mn-5mn 1
+30s-2mn 2
+0s-30s 1
+30mn-1h 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 5
+/www.cacaceasoc.com/Home.html 19 71250 1 2
+/www.cacaceasoc.com/El_Estudio.html 14 99084 0 1
+/www.cacaceasoc.com/Areas_de_Practica.html 12 54714 0 0
+/ 12 6103 6 1
+/www.cacaceasoc.com/Socios_%26_Profesionales.html 8 115818 0 3
+END_SIDER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+css 49 128180 0 0
+png 538 2503644 0 0
+html 65 346969 0 0
+jpg 78 38038 0 0
+xml 20 12929 0 0
+js 130 2079479 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 1
+macosx 880
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 1
+safari 880
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 12 12
+From1 0 0
+From2 0 0
+From3 0 0
+From4 53 868
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 1 540
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 1
+/anony/mjpg.cgi 1 -
+END_SIDER_404
+
+# Plugin key - Pages - Hits - Bandwidth - Last access
+BEGIN_PLUGIN_geoip_city_maxmind 3
+ar_buenos%20aires_07 0 419 0 0
+unknown 0 389 0 0
+ca_montreal_qc 0 72 0 0
+END_PLUGIN_geoip_city_maxmind

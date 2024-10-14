@@ -1,0 +1,1544 @@
+# Webalizer V2.20-01 Incremental Data - 04/25/2018 00:59:29
+2018 4 25 0 59 29
+1378 970 334 66 25 117 11664090 569 434 0
+4 5 72 1 25
+129 83 1288119 22 22 17
+105 85 1165795 21 25 18
+52 38 588126 17 25 21
+18 13 20189 16 14 13
+59 17 33301 23 38 20
+33 22 67770 22 21 21
+21 8 7742 13 14 12
+21 19 358612 9 10 10
+35 23 65850 20 21 21
+90 80 1242633 16 13 12
+115 105 1250638 13 21 13
+31 14 19576 20 17 15
+23 15 32120 18 19 16
+53 36 519592 29 29 24
+64 46 133868 32 48 38
+117 71 906986 22 53 18
+138 125 2201241 26 30 20
+44 30 571340 28 29 25
+32 16 235647 21 20 16
+46 23 386980 18 18 13
+23 15 22655 21 19 18
+18 12 13784 13 17 12
+79 57 495629 23 24 20
+27 15 26854 20 19 18
+5 2 9043 4 3 3
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+109 92 936933 43
+25 12 124931 17
+50 29 433714 24
+43 31 514016 15
+23 11 9539 19
+44 25 272004 27
+46 25 37285 32
+34 18 39269 24
+43 29 398261 20
+124 114 2151871 21
+84 76 1322720 14
+90 75 897323 25
+91 83 1042192 19
+95 51 469523 33
+46 22 49069 32
+65 17 61763 51
+70 38 766524 19
+23 15 25363 20
+20 15 134505 16
+37 30 291535 23
+71 60 633499 21
+30 13 40282 20
+76 65 876586 13
+39 24 135383 21
+0
+0
+0
+970
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+9
+0
+0
+47
+0
+0
+0
+266
+4
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+11
+68
+0
+0
+0
+0
+# -urls- 
+/www.cacaceasoc.com/El_Estudio_files/shapeimage_4_link_4.png
+0 8 0 6840 0 0
+/www.cacaceasoc.com/El_Estudio_files/shapeimage_4_rollover_11.png
+0 8 0 6576 0 0
+/
+0 299 0 94575 306 110
+/www.cacaceasoc.com/El_Estudio_files/shapeimage_4_rollover_9.png
+0 8 0 23544 0 0
+/www.cacaceasoc.com/feed.xml
+0 20 0 43940 0 0
+/www.cacaceasoc.com/El_Estudio_files/shapeimage_4_link_10.png
+0 8 0 13448 0 0
+/www.cacaceasoc.com/El_Estudio_files/shapeimage_4_link_3.png
+0 8 0 27032 0 0
+/www.cacaceasoc.com/El_Estudio_files/shapeimage_4_rollover_10.png
+0 8 0 8496 0 0
+/www.cacaceasoc.com/El_Estudio_files/shapeimage_4_rollover_8.png
+0 8 0 736 0 0
+/www.cacaceasoc.com/English_files/shapeimage_1.jpg
+0 2 0 1838 0 0
+/www.cacaceasoc.com/El_Estudio_files/shapeimage_4_link_2.png
+0 8 0 23912 0 0
+/www.cacaceasoc.com/El_Estudio_files/shapeimage_4_rollover_7.png
+0 8 0 26688 0 0
+/www.cacaceasoc.com/Home_files/shapeimage_4.png
+0 7 0 334915 0 0
+/www.cacaceasoc.com/El_Estudio_files/shapeimage_4_link_1.png
+0 8 0 23760 0 0
+/www.cacaceasoc.com/El_Estudio_files/shapeimage_4_rollover_6.png
+0 8 0 26848 0 0
+/www.cacaceasoc.com/Home_files/shapeimage_3.png
+0 7 0 27713 0 0
+/www.cacaceasoc.com/Scripts/Widgets/Navbar/navbar.js
+0 21 0 125706 0 0
+/www.cacaceasoc.com/El_Estudio_files/shapeimage_4_link_0.png
+0 8 0 848 0 0
+/www.cacaceasoc.com/El_Estudio_files/shapeimage_4_rollover_5.png
+0 8 0 6496 0 0
+/www.cacaceasoc.com/El_Estudio_files/El_Estudio.js
+0 8 0 10488 0 0
+/www.cacaceasoc.com/El_Estudio_files/El_Estudio.css
+0 8 0 35120 0 0
+/www.cacaceasoc.com/Scripts/iWebSite.js
+0 22 0 3214530 0 0
+/www.cacaceasoc.com/Home_files/shapeimage_2.png
+0 9 0 947565 0 0
+/www.cacaceasoc.com/Home_files/HomeIE.css
+0 1 0 492 0 0
+/www.cacaceasoc.com/El_Estudio_files/shapeimage_4_rollover_4.png
+0 8 0 4856 0 0
+/www.cacaceasoc.com/English_files/English.js
+0 2 0 1106 0 0
+/www.cacaceasoc.com/El_Estudio_files/shapeimage_4_rollover_3.png
+0 8 0 18600 0 0
+/www.cacaceasoc.com/English_files/English.css
+0 2 0 6458 0 0
+/www.cacaceasoc.com/El_Estudio_files/shapeimage_4_rollover_2.png
+0 8 0 16120 0 0
+/www.cacaceasoc.com/El_Estudio_files/shapeimage_4_rollover_1.png
+0 8 0 14560 0 0
+/www.cacaceasoc.com/Areas_de_Practica_files/Areas_de_Practica.css
+0 8 0 37816 0 0
+/www.cacaceasoc.com/El_Estudio_files/shapeimage_4.png
+0 8 0 104168 0 0
+/www.cacaceasoc.com/Home_files/shapeimage_1.jpg
+0 7 0 6433 0 0
+/www.cacaceasoc.com/El_Estudio_files/shapeimage_4_rollover_0.png
+0 8 0 848 0 0
+/www.cacaceasoc.com/Home_files/Home.css
+0 24 0 72792 0 0
+/www.cacaceasoc.com/Home.html
+0 85 0 614295 61 42
+/www.cacaceasoc.com/El_Estudio_files/shapeimage_3.png
+0 8 0 23336 0 0
+/www.cacaceasoc.com/Socios_
+0 83 0 1659895 0 0
+/www.cacaceasoc.com/Scripts/iWebImage.js
+0 21 0 832902 0 0
+/www.cacaceasoc.com/Areas_de_Practica.html
+0 9 0 88110 4 0
+/www.cacaceasoc.com/El_Estudio_files/shapeimage_2.png
+0 8 0 57712 0 0
+/www.cacaceasoc.com/El_Estudio_files/shapeimage_4_link_9.png
+0 8 0 36848 0 0
+/www.cacaceasoc.com/English_files/shapeimage_4.png
+0 2 0 902 0 0
+/www.cacaceasoc.com/El_Estudio_files/shapeimage_1.png
+0 8 0 831608 0 0
+/www.cacaceasoc.com/El_Estudio_files/shapeimage_4_link_8.png
+0 8 0 736 0 0
+/www.cacaceasoc.com/English_files/shapeimage_3.png
+0 2 0 14458 0 0
+/www.cacaceasoc.com/Areas_de_Practica_files/shapeimage_3.png
+0 6 0 17502 0 0
+/www.cacaceasoc.com/El_Estudio_files/shapeimage_4_link_7.png
+0 8 0 40488 0 0
+/www.cacaceasoc.com/English_files/shapeimage_2.png
+0 2 0 208112 0 0
+/www.cacaceasoc.com/Areas_de_Practica_files/Areas_de_Practica.js
+0 7 0 4011 0 0
+/www.cacaceasoc.com/El_Estudio_files/shapeimage_4_link_13.png
+0 8 0 10592 0 0
+/www.cacaceasoc.com/Scripts/Widgets/SharedResources/WidgetCommon.js
+0 21 0 758604 0 0
+/www.cacaceasoc.com/Areas_de_Practica_files/shapeimage_2.png
+0 6 0 49500 0 0
+/icons/apache_pb.gif
+0 2 0 0 0 0
+/www.cacaceasoc.com/El_Estudio_files/shapeimage_4_link_6.png
+0 8 0 41032 0 0
+/www.cacaceasoc.com/El_Estudio_files/shapeimage_4_rollover_13.png
+0 8 0 7000 0 0
+/www.cacaceasoc.com/El_Estudio.html
+0 8 0 127240 5 0
+/www.cacaceasoc.com/Media/IE8.css
+0 1 0 215 0 0
+/www.cacaceasoc.com/El_Estudio_files/shapeimage_4_link_12.png
+0 8 0 30560 0 0
+/www.cacaceasoc.com/Areas_de_Practica_files/shapeimage_1.png
+0 6 0 623706 0 0
+/www.cacaceasoc.com/El_Estudio_files/shapeimage_4_link_5.png
+0 8 0 9848 0 0
+/www.cacaceasoc.com/El_Estudio_files/shapeimage_4_rollover_12.png
+0 8 0 19848 0 0
+/www.cacaceasoc.com/Home_files/Home.js
+0 11 0 6226 0 0
+/www.cacaceasoc.com/El_Estudio_files/shapeimage_4_link_11.png
+0 8 0 10184 0 0
+/www.cacaceasoc.com/Areas_de_Practica_files/Areas_de_PracticaIE.css
+0 1 0 492 0 0
+/www.cacaceasoc.com/English.html
+0 3 0 27441 2 0
+# End Of Table - urls
+# -sites- (monthly)
+baiduspider-180-76-15-146.crawl.baidu.com
+0 1 0 497 0 0
+-
+census8.shodan.io
+0 4 1 1816 1 1523056588
+/
+host135.201-252-67.telecom.net.ar
+0 47 46 564219 1 1523442660
+/www.cacaceasoc.com/El_Estudio.html
+200.60.83.110.broad.fz.fj.dynamic.163data.com.cn
+0 1 1 325 1 1523729544
+/
+msnbot-157-55-39-245.search.msn.com
+0 2 2 650 2 1523133930
+/
+crawl-66-249-73-139.googlebot.com
+0 1 0 497 0 0
+-
+baiduspider-180-76-15-153.crawl.baidu.com
+0 1 1 325 1 1522791511
+/
+crawl-66-249-64-91.googlebot.com
+0 1 1 3033 0 0
+-
+baiduspider-180-76-15-157.crawl.baidu.com
+0 1 1 325 1 1524234884
+/
+23.237.4.26
+0 7 7 2275 7 1524535354
+/
+mailer.wix.com
+0 1 1 325 1 1523338673
+/
+msnbot-157-55-39-214.search.msn.com
+0 1 1 325 1 1523726673
+/
+msnbot-207-46-13-199.search.msn.com
+0 1 0 497 0 0
+-
+112.66.96.4
+0 1 0 497 1 1524617969
+-
+jobqueue-listener.jobqueue.netcraft.com-ua44f4b0fca0e42ca9746a278a59d427au-digitalocean
+0 1 1 0 0 0
+-
+li1845-152.members.linode.com
+0 1 1 325 1 1523932837
+/
+msnbot-157-55-39-223.search.msn.com
+0 1 1 325 1 1523874083
+/
+ns3061207.ip-193-70-34.eu
+0 1 0 497 0 0
+-
+hostby.startupgo.co.uk
+0 1 0 497 1 1524581822
+-
+msnbot-207-46-13-88.search.msn.com
+0 1 1 325 1 1523428070
+/
+185.100.87.248
+0 4 4 975 1 1523458245
+/
+r167-60-104-207.dialup.adsl.anteldata.net.uy
+0 1 1 325 1 1522867277
+/
+167.99.152.61
+0 1 1 325 1 1524009931
+/
+185.170.42.14
+0 1 1 325 1 1524597183
+/
+crawl-66-249-73-143.googlebot.com
+0 2 2 7552 2 1523032727
+/
+66-111-41-253.static.sagonet.net
+0 1 1 0 1 1523491967
+/
+crawl-66-249-79-149.googlebot.com
+0 4 4 24198 2 1523772439
+/www.cacaceasoc.com/Home.html
+103.255.254.123
+0 1 1 325 1 1522886044
+/
+212-129-15-152.rev.poneytelecom.eu
+0 2 0 0 0 0
+-
+baiduspider-180-76-15-13.crawl.baidu.com
+0 1 1 7227 1 1524042147
+/www.cacaceasoc.com/Home.html
+ec2-54-186-2-209.us-west-2.compute.amazonaws.com
+0 1 1 325 1 1522990922
+/
+29-68-15-51.rev.cloud.scaleway.com
+0 1 1 325 1 1524443893
+/
+ns3070408.ip-79-137-42.eu
+0 7 1 3307 1 1524229857
+-
+msnbot-157-55-39-241.search.msn.com
+0 5 5 42930 2 1524589096
+/
+83-109-231-181.cab.prima.com.ar
+0 12 11 358342 0 0
+-
+13.68.95.157
+0 1 0 497 1 1522812486
+/
+baiduspider-180-76-15-28.crawl.baidu.com
+0 1 1 325 1 1524042147
+/
+115.144.199.181.ros.express.com.ar
+0 11 11 360292 1 1523984125
+/www.cacaceasoc.com/Areas_de_Practica.html
+39.106.134.176
+0 34 0 16898 1 1523893228
+-
+node-xhf.pool-101-109.dynamic.totbb.net
+0 1 0 497 0 0
+-
+baiduspider-180-76-15-6.crawl.baidu.com
+0 1 1 7227 1 1523945365
+/www.cacaceasoc.com/Home.html
+168.235.93.142
+0 3 3 975 3 1523912389
+/
+104.131.35.73
+0 1 1 0 1 1522747105
+/
+static.234.90.201.195.clients.your-server.de
+0 9 9 243557 1 1523423459
+/www.cacaceasoc.com/Home.html
+crawl-66-249-79-153.googlebot.com
+0 4 4 17296 2 1523790500
+/www.cacaceasoc.com/Home.html
+researchscan287.eecs.umich.edu
+0 3 2 1147 3 1523947758
+/
+125.35.11.30
+0 1 0 497 1 1523879438
+-
+m3909.contaboserver.net
+0 3 3 975 3 1524403886
+/
+www.inperfo.com
+0 1 1 325 1 1523568605
+/
+msnbot-207-46-13-44.search.msn.com
+0 1 1 7227 1 1524269075
+/www.cacaceasoc.com/Home.html
+ns27.fab-host.com
+0 1 0 497 1 1522641027
+-
+66.160.134.3
+0 2 1 822 1 1522889509
+/
+crawl-66-249-79-27.googlebot.com
+0 2 2 7552 2 1522715094
+/www.cacaceasoc.com/Home.html
+scan-92.security.ipip.net
+0 8 8 2600 8 1524284803
+/
+b18e7b4a.virtua.com.br
+0 4 1 1816 1 1522690058
+/
+msnbot-207-46-13-234.search.msn.com
+0 1 1 325 1 1524235438
+/
+msnbot-157-55-39-0.search.msn.com
+0 2 0 994 0 0
+-
+crawl-66-249-79-93.googlebot.com
+0 1 1 7227 1 1523805171
+/www.cacaceasoc.com/Home.html
+zg-0324a-15.stretchoid.com
+0 1 1 325 1 1523330806
+/
+msnbot-65-55-213-28.search.msn.com
+0 7 7 233683 0 0
+-
+bd65fdee.virtua.com.br
+0 4 1 1816 1 1523457527
+/
+dsl-189-131-20-121-dyn.prod-infinitum.com.mx
+0 1 0 497 0 0
+-
+crawl-66-249-64-95.googlebot.com
+0 1 1 325 1 1523006528
+/
+msnbot-207-46-13-62.search.msn.com
+0 1 1 325 1 1524536659
+/
+crawl-66-249-79-49.googlebot.com
+0 6 6 22656 4 1522722135
+/www.cacaceasoc.com/Home.html
+dup-201-97-35-82.prod-dial.com.mx
+0 1 1 325 1 1524308930
+/
+crawl-66-249-79-31.googlebot.com
+0 4 2 8546 2 1522739228
+/www.cacaceasoc.com/Home.html
+116.232.114.176
+0 4 1 1319 1 1524011757
+/
+167.99.70.65
+0 4 0 1988 0 0
+-
+167.99.70.67
+0 7 0 3479 0 0
+-
+mail.zuowaihui.com
+0 1 0 497 1 1523953933
+-
+46.101.80.192
+0 1 1 325 1 1523617402
+/
+216.244.66.229
+0 2 1 9644 1 1522976059
+/www.cacaceasoc.com/English.html
+163-172-4-153.rev.poneytelecom.eu
+0 2 2 650 2 1524360929
+/
+62-4-15-41.rev.poneytelecom.eu
+0 1 0 497 0 0
+-
+crawl-66-249-75-131.googlebot.com
+0 13 12 115510 8 1524513482
+/
+211-23-154-138.hinet-ip.hinet.net
+0 8 8 2600 8 1524010250
+/
+38.88.209.18
+0 38 36 1054352 2 1523353830
+/www.cacaceasoc.com/Home.html
+34-76-15-51.rev.cloud.scaleway.com
+0 1 1 325 1 1524545671
+/
+crawl-66-249-75-142.googlebot.com
+0 4 0 1988 0 0
+-
+60.191.38.78
+0 1 1 325 1 1522578401
+/
+zg-0321a-97.stretchoid.com
+0 1 1 325 1 1524292905
+/
+crawl-66-249-79-75.googlebot.com
+0 2 0 994 1 1522642849
+-
+140.143.187.57
+0 1 0 497 1 1523240101
+-
+180.97.106.39
+0 1 0 497 1 1523454326
+-
+116.211.143.90
+0 1 1 325 1 1524269713
+/
+pc-59-9-46-190.cm.vtr.net
+0 1 0 497 1 1523682185
+-
+host140.190-229-125.telecom.net.ar
+0 41 40 436458 1 1523478385
+/www.cacaceasoc.com/El_Estudio.html
+222.178.10.230
+0 1 1 325 1 1522942774
+/
+baiduspider-180-76-15-134.crawl.baidu.com
+0 1 1 325 1 1523537165
+/
+baiduspider-180-76-15-138.crawl.baidu.com
+0 2 1 7724 1 1523252758
+/www.cacaceasoc.com/Home.html
+crawl-66-249-73-26.googlebot.com
+0 1 0 497 0 0
+-
+defiant.proxyblocker.org
+0 1 0 497 1 1523181246
+/
+msnbot-157-55-39-165.search.msn.com
+0 1 1 325 1 1524383892
+/
+185.222.210.29
+0 2 0 994 2 1523910278
+/
+baiduspider-180-76-15-149.crawl.baidu.com
+0 2 2 14454 2 1524614726
+/www.cacaceasoc.com/Home.html
+46.161.9.3
+0 3 0 1491 2 1523863919
+-
+crawl-66-249-65-145.googlebot.com
+0 1 1 7227 1 1523030639
+/www.cacaceasoc.com/Home.html
+ec2-34-212-17-2.us-west-2.compute.amazonaws.com
+0 1 1 325 1 1523638871
+/
+ecs-117-78-47-233.compute.hwclouds-dns.com
+0 1 0 497 1 1522590225
+-
+crawl-66-249-65-80.googlebot.com
+0 1 0 497 0 0
+-
+baiduspider-180-76-15-156.crawl.baidu.com
+0 1 1 325 1 1522863865
+/
+58.213.23.210
+0 1 0 497 1 1524576347
+/
+195.22.127.231
+0 5 0 2485 0 0
+-
+msnbot-157-55-39-244.search.msn.com
+0 1 1 325 1 1524072923
+/
+146.185.223.160
+0 9 2 4129 1 1522562239
+/
+178.73.215.171
+0 4 4 1300 4 1524408244
+/
+38.100.21.61
+0 8 8 26301 1 1523675861
+/www.cacaceasoc.com/Areas_de_Practica.html
+google-proxy-66-249-85-4.google.com
+0 22 20 238038 0 0
+-
+msnbot-157-55-39-253.search.msn.com
+0 1 1 325 1 1523667020
+/
+crawl-66-249-66-205.googlebot.com
+0 3 2 13320 1 1524496714
+/www.cacaceasoc.com/Areas_de_Practica.html
+86.42.47.186.static.anycast.cnt-grms.ec
+0 2 0 994 1 1523690737
+-
+crawl-66-249-79-46.googlebot.com
+0 6 4 18806 3 1522727614
+/www.cacaceasoc.com/Home.html
+crawl-66-249-70-11.googlebot.com
+0 11 10 97508 5 1524046503
+/
+173.0.63.84
+0 1 0 497 1 1523852471
+-
+unknown-237-uk.globalcrossing.com
+0 2 0 994 1 1524155738
+-
+193.106.30.99
+0 1 0 497 1 1523930166
+-
+104.192.74.36
+0 4 1 1816 1 1523938761
+-
+crawl-66-249-69-14.googlebot.com
+0 18 15 184683 12 1524535939
+/
+212-129-50-159.rev.poneytelecom.eu
+0 1 1 325 1 1524121378
+/
+103.84.87.130
+0 2 1 822 1 1524152511
+-
+155.232.191.208
+0 1 0 497 0 0
+-
+117.50.20.164
+0 1 1 325 1 1523051498
+/
+msnbot-207-46-13-16.search.msn.com
+0 1 1 325 1 1522708837
+/
+msnbot-40-77-167-60.search.msn.com
+0 1 1 7227 1 1523865060
+/www.cacaceasoc.com/Home.html
+ns530954.ip-198-100-146.net
+0 1 0 497 0 0
+-
+baiduspider-180-76-15-27.crawl.baidu.com
+0 1 1 7227 1 1524344425
+/www.cacaceasoc.com/Home.html
+msnbot-40-77-167-168.search.msn.com
+0 2 2 650 2 1523041962
+/
+baiduspider-180-76-15-9.crawl.baidu.com
+0 1 0 497 0 0
+-
+ubuntu16202198.aspadmin.net
+0 3 0 1491 3 1524524612
+-
+baiduspider-180-76-15-34.crawl.baidu.com
+0 1 1 325 1 1524344425
+/
+msnbot-207-46-13-114.search.msn.com
+0 2 2 42695 0 0
+-
+121.32.121.14
+0 1 0 497 1 1522890632
+/
+45.32.151.39.vultr.com
+0 3 3 7877 1 1524438895
+/
+sky.census.shodan.io
+0 5 1 2313 1 1523305646
+/
+212.92.127.26
+0 1 0 497 1 1523743195
+/
+crawl-66-249-65-84.googlebot.com
+0 1 0 497 0 0
+-
+crawl-66-249-79-28.googlebot.com
+0 1 0 497 0 0
+-
+202.197.190.34
+0 1 0 497 1 1524500262
+-
+5.188.9.80
+0 25 0 12425 0 0
+-
+195.22.125.241
+0 2 0 994 1 1524426720
+-
+dedic1034.hidehost.net
+0 1 1 325 1 1524132174
+/
+c83-254-24-46.bredband.comhem.se
+0 1 1 325 1 1523754622
+/
+107-172-210-210-host.colocrossing.com
+0 1 0 497 0 0
+-
+crawl-66-249-70-15.googlebot.com
+0 6 4 18806 2 1524046504
+/www.cacaceasoc.com/Home.html
+researchscan303.eecs.umich.edu
+0 1 1 325 1 1522775330
+/
+178.171.21.34
+0 1 1 325 1 1522887376
+/
+msnbot-40-77-167-203.search.msn.com
+0 2 2 153130 0 0
+-
+msnbot-40-77-167-102.search.msn.com
+0 1 1 325 1 1523268073
+/
+119-49-15-51.rev.cloud.scaleway.com
+0 1 1 325 1 1524482816
+/
+crawl-66-249-64-218.googlebot.com
+0 2 0 994 0 0
+-
+rrcs-71-43-246-82.se.biz.rr.com
+0 1 0 497 1 1522905497
+-
+ip-static-94-242-250-182.server.lu
+0 1 0 497 1 1523715861
+-
+zg-0324a-81.stretchoid.com
+0 1 1 325 1 1522909611
+/
+31.184.193.154
+0 13 13 4225 13 1524580620
+/
+msnbot-157-55-39-137.search.msn.com
+0 1 1 325 1 1522858778
+/
+host.mccarthy-techreversef.us
+0 2 2 650 1 1523675423
+/
+104.214.27.195
+0 2 0 994 1 1524050371
+-
+crawl-66-249-79-125.googlebot.com
+0 2 2 10260 1 1522680295
+/www.cacaceasoc.com/Home.html
+msnbot-40-77-167-120.search.msn.com
+0 2 2 650 2 1522953013
+/
+5.45.75.6
+0 1 1 325 1 1522886785
+/
+182.108.133.253
+0 3 0 1491 1 1524222940
+-
+43.251.96.7
+0 1 1 325 1 1523905241
+/
+bb27a1e0.virtua.com.br
+0 4 1 1816 1 1524101685
+/
+crawl-66-249-73-141.googlebot.com
+0 2 2 7552 2 1523032728
+/www.cacaceasoc.com/Home.html
+cpc113436-maid7-2-0-cust165.20-1.cable.virginm.net
+0 12 12 355668 1 1523156618
+/www.cacaceasoc.com/English.html
+125-209-79-108.multi.net.pk
+0 1 0 497 1 1523111980
+-
+msnbot-40-77-167-45.search.msn.com
+0 1 1 325 1 1522611275
+/
+msnbot-40-77-167-85.search.msn.com
+0 4 1 8718 1 1522665873
+/www.cacaceasoc.com/Home.html
+178.171.31.146
+0 1 1 325 1 1524241591
+/
+baiduspider-180-76-15-148.crawl.baidu.com
+0 1 0 497 0 0
+-
+178.171.53.126
+0 1 1 325 1 1523823701
+/
+ip77.ip-192-99-81.net
+0 1 0 0 0 0
+-
+baiduspider-180-76-15-151.crawl.baidu.com
+0 1 1 325 1 1523301719
+/
+baiduspider-180-76-15-155.crawl.baidu.com
+0 1 1 7227 1 1522863866
+/www.cacaceasoc.com/Home.html
+scan-72.security.ipip.net
+0 5 5 1625 5 1524286281
+/
+46-118-155-165.broadband.kyivstar.net
+0 1 1 325 1 1524120416
+/
+msnbot-157-55-39-133.search.msn.com
+0 1 0 497 0 0
+-
+host91-134-static.225-95-b.business.telecomitalia.it
+0 1 1 325 1 1522593626
+/
+no-data
+0 3 0 1491 3 1524445985
+-
+crawl-66-249-69-218.googlebot.com
+0 1 0 497 0 0
+-
+150-163-188-190.cab.prima.net.ar
+0 60 59 863261 1 1522544130
+/www.cacaceasoc.com/Home.html
+crawl-66-249-79-151.googlebot.com
+0 5 4 14951 2 1523772438
+/
+msnbot-40-77-167-4.search.msn.com
+0 1 1 325 1 1522807735
+/
+104.131.11.192
+0 1 1 0 0 0
+-
+b.gsi06.ru
+0 1 0 497 1 1523452281
+/
+222.74.34.5
+0 2 0 994 1 1524334705
+-
+185.232.30.101
+0 2 1 0 2 1523109227
+-
+61.19.239.2
+0 1 0 497 1 1522788865
+/
+malware-hunter.census.shodan.io
+0 1 0 497 1 1523684334
+/
+ec2-34-207-121-75.compute-1.amazonaws.com
+0 1 1 325 1 1524114233
+/
+crawl-66-249-79-91.googlebot.com
+0 5 3 4677 2 1523805170
+/
+msnbot-207-46-13-77.search.msn.com
+0 11 7 163451 3 1522766862
+/
+baiduspider-180-76-15-15.crawl.baidu.com
+0 1 1 325 1 1523252757
+/
+171.120.150.137
+0 1 0 497 1 1523517823
+-
+crawl-66-249-69-222.googlebot.com
+0 1 0 497 0 0
+-
+crawl-66-249-64-93.googlebot.com
+0 2 1 7724 1 1523006529
+/www.cacaceasoc.com/Home.html
+host219-58-237-212.serverdedicati.aruba.it
+0 1 0 497 1 1522550037
+-
+baiduspider-180-76-15-26.crawl.baidu.com
+0 1 0 497 0 0
+-
+164.52.24.140
+0 15 5 6595 5 1524432308
+/
+12-88-168-152.fibertel.com.ar
+0 60 59 863261 1 1523876631
+/www.cacaceasoc.com/El_Estudio.html
+baiduspider-180-76-15-8.crawl.baidu.com
+0 2 1 822 1 1524614725
+/
+zg-0324a-2.stretchoid.com
+0 1 1 325 1 1523947093
+/
+sh-phx-us-gp1-wk103.internet-census.org
+0 3 1 1319 1 1522799599
+/
+msnbot-40-77-167-127.search.msn.com
+0 1 0 0 1 1524569595
+/
+stop.plrmail.com
+0 1 0 497 1 1524508067
+/
+pool-100-35-70-241.nwrknj.fios.verizon.net
+0 1 0 497 1 1523725264
+-
+ec2-13-57-29-114.us-west-1.compute.amazonaws.com
+0 1 1 325 1 1523239832
+/
+46.243.189.99
+0 12 0 5964 1 1522968620
+-
+118.178.135.9
+0 1 0 497 1 1523034462
+-
+ns4007925.ip-192-95-31.net
+0 3 1 1319 1 1522865831
+/
+msnbot-207-46-13-153.search.msn.com
+0 1 0 497 0 0
+-
+116.255.160.122
+0 2 0 994 1 1524462571
+-
+179.4.86.39
+0 1 1 104056 0 0
+-
+176.210.80.31
+0 2 1 822 1 1524200595
+-
+228.68.10.185.box.cock.li
+0 1 1 325 1 1524255381
+/
+msnbot-157-55-39-48.search.msn.com
+0 1 0 497 0 0
+-
+123.207.164.214
+0 1 0 497 0 0
+-
+117.185.117.60
+0 1 0 497 1 1523768486
+-
+mail1.durabrik.be
+0 2 0 994 1 1523614443
+-
+crawl-66-249-75-140.googlebot.com
+0 3 0 1491 0 0
+-
+211.182.152.190.static.anycast.cnt-grms.ec
+0 1 0 497 1 1523668264
+-
+b1526191.virtua.com.br
+0 6 1 2810 1 1524466450
+/
+117.50.7.159
+0 1 1 325 1 1523406892
+/
+115.231.218.197
+0 1 0 497 1 1523696271
+-
+msnbot-207-46-13-201.search.msn.com
+0 1 0 497 0 0
+-
+ec2-34-218-51-251.us-west-2.compute.amazonaws.com
+0 1 1 0 1 1522541570
+/
+condor2307.startdedicated.com
+0 1 0 497 1 1522568192
+-
+47.203.88.161
+0 1 0 497 1 1524579801
+/
+221.194.47.235
+0 2 1 822 1 1523710288
+/
+crawl-66-249-79-29.googlebot.com
+0 7 5 16423 5 1522791521
+-
+www.probethenet.com
+0 2 1 325 1 1524033738
+/
+190-175-60-10.speedy.com.ar
+0 12 11 358342 0 0
+-
+crawl-66-249-79-95.googlebot.com
+0 5 5 22331 3 1523780102
+/www.cacaceasoc.com/Home.html
+msnbot-157-55-39-35.search.msn.com
+0 1 1 325 1 1523821552
+/
+183.193.15.58
+0 8 0 3976 1 1523774965
+/
+crawl-66-249-65-143.googlebot.com
+0 1 1 325 1 1523030638
+/
+msnbot-40-77-167-202.search.msn.com
+0 1 1 325 1 1524278973
+/
+server15.info
+0 1 1 325 1 1523751104
+/
+zg-0321a-68.stretchoid.com
+0 1 1 325 1 1523854074
+/
+178-88-15-51.rev.cloud.scaleway.com
+0 1 0 497 1 1523660111
+-
+62-210-152-248.rev.poneytelecom.eu
+0 2 2 325 2 1523622654
+/
+ec2-54-174-77-90.compute-1.amazonaws.com
+0 1 1 325 1 1523099061
+/
+163-172-204-72.rev.poneytelecom.eu
+0 1 1 325 1 1524253895
+/
+209.126.136.4
+0 4 4 1300 4 1524612552
+/
+eddyville.dreamhost.com
+0 1 1 325 1 1524360498
+/
+host217.181-9-173.telecom.net.ar
+0 67 67 988673 1 1523969692
+/www.cacaceasoc.com/English.html
+59.57.37.8
+0 1 1 325 1 1523220278
+/
+researchscan351.eecs.umich.edu
+0 2 0 994 2 1523796212
+-
+crawl-66-249-75-129.googlebot.com
+0 10 7 173211 4 1524513483
+/www.cacaceasoc.com/Home.html
+msnbot-157-55-39-237.search.msn.com
+0 3 3 975 3 1523620687
+/
+185.248.100.89
+0 1 0 497 0 0
+-
+crawl-66-249-66-203.googlebot.com
+0 3 1 7227 1 1524496686
+/www.cacaceasoc.com/Home.html
+google-proxy-66-249-85-31.google.com
+0 22 22 360446 1 1524490239
+/www.cacaceasoc.com/El_Estudio.html
+msnbot-157-55-39-22.search.msn.com
+0 1 0 497 0 0
+-
+58.19.57.244
+0 1 0 497 1 1524281966
+-
+211.159.187.138
+0 19 0 9443 1 1522934946
+-
+crawl-66-249-69-12.googlebot.com
+0 19 14 57808 12 1524535940
+/www.cacaceasoc.com/Home.html
+ip-24-84-52-196.southampton.uk.amsterdamresidential.com
+0 1 1 325 1 1524430250
+/
+crawl-66-249-66-66.googlebot.com
+0 5 0 2485 0 0
+-
+crawl-66-249-75-133.googlebot.com
+0 12 10 29530 7 1524079401
+/
+119.188.64.4
+0 3 3 10585 1 1524574207
+/www.cacaceasoc.com/Home.html
+77-88-5-21.spider.yandex.com
+0 4 2 1644 2 1523542633
+/
+baiduspider-180-76-15-154.crawl.baidu.com
+0 1 1 325 1 1523629871
+/
+hostby.channelnet.ie
+0 3 3 975 3 1524351938
+/
+mason.census.shodan.io
+0 5 1 2313 1 1524120745
+/
+ec2-54-208-38-30.compute-1.amazonaws.com
+0 1 0 497 0 0
+-
+crawl-66-249-75-144.googlebot.com
+0 6 0 2982 0 0
+-
+ec2-54-67-59-131.us-west-1.compute.amazonaws.com
+0 8 8 2600 8 1524276674
+/
+inspire.census.shodan.io
+0 5 1 2313 1 1522797360
+/
+185.234.218.71
+0 4 1 1816 1 1522920556
+/
+ec2-34-236-132-66.compute-1.amazonaws.com
+0 1 1 325 1 1523620068
+/
+jobqueue-listener.jobqueue.netcraft.com-u57f83597028c456c88652e11d7aff353u-digitalocean-2gb
+0 2 2 7552 1 1522873764
+/www.cacaceasoc.com/Home.html
+msnbot-207-46-13-18.search.msn.com
+0 1 1 325 1 1523372552
+/
+31-206-15-51.rev.cloud.scaleway.com
+0 1 1 325 1 1524012907
+/
+150.109.39.180
+0 1 0 497 1 1524175970
+-
+183.129.160.229
+0 1 1 325 1 1523340927
+/
+msnbot-207-46-13-156.search.msn.com
+0 1 1 325 1 1524023389
+/
+151.106.13.158
+0 2 0 994 0 0
+-
+baiduspider-180-76-15-21.crawl.baidu.com
+0 1 1 7227 1 1523629872
+/www.cacaceasoc.com/Home.html
+crawl-66-249-79-26.googlebot.com
+0 2 0 994 0 0
+-
+baiduspider-180-76-15-25.crawl.baidu.com
+0 1 1 7227 1 1522791512
+/www.cacaceasoc.com/Home.html
+baiduspider-180-76-15-29.crawl.baidu.com
+0 1 1 7227 1 1523301719
+/www.cacaceasoc.com/Home.html
+msnbot-207-46-13-125.search.msn.com
+0 1 1 325 1 1523780285
+/
+88.204.220.90
+0 1 1 325 1 1524360927
+/
+ec2-52-201-243-111.compute-1.amazonaws.com
+0 1 1 325 1 1522993109
+/
+221.11.20.167
+0 1 0 497 1 1524063109
+-
+zg-0324a-87.stretchoid.com
+0 1 1 325 1 1523594026
+/
+123.206.190.166
+0 1 0 497 1 1523853147
+-
+crawl-66-249-66-207.googlebot.com
+0 4 1 822 1 1524496685
+/
+msnbot-207-46-13-14.search.msn.com
+0 1 1 105285 0 0
+-
+195.3.195.35.bc.googleusercontent.com
+0 1 1 325 1 1524071853
+/
+crawl-66-249-70-13.googlebot.com
+0 5 4 160150 2 1524006011
+/
+ip-166-62-126-3.ip.secureserver.net
+0 1 1 325 1 1523978728
+/
+crawl-66-249-69-16.googlebot.com
+0 12 9 42831 8 1524543365
+-
+li1869-38.members.linode.com
+0 1 1 325 1 1522583497
+/
+www.whois.sc
+0 6 4 16098 2 1524224182
+/www.cacaceasoc.com/Home.html
+43.251.99.5
+0 1 1 325 1 1524291100
+/
+customer-static-192-178.iplannetworks.net
+0 12 11 358342 0 0
+-
+msnbot-207-46-13-192.search.msn.com
+0 1 0 497 0 0
+-
+msnbot-157-55-39-78.search.msn.com
+0 2 2 650 2 1524170539
+/
+51-15-154-150.rev.poneytelecom.eu
+0 1 0 0 0 0
+-
+ec2-54-208-102-37.compute-1.amazonaws.com
+0 2 1 822 1 1523279614
+/
+crawl-66-249-79-52.googlebot.com
+0 3 3 7877 2 1522744399
+/www.cacaceasoc.com/Home.html
+217.29.216.76
+0 1 1 325 1 1522605760
+/
+91.144.199.181.ros.express.com.ar
+0 53 52 694427 1 1523351654
+/www.cacaceasoc.com/El_Estudio.html
+ip1.ip-164-132-91.eu
+0 2 2 650 2 1523198234
+/
+ec2-54-174-166-221.compute-1.amazonaws.com
+0 1 1 325 1 1523272674
+/
+msnbot-207-46-13-3.search.msn.com
+0 2 2 650 2 1523226406
+/
+95.211.163.39
+0 1 0 497 1 1523066599
+/
+94.147.dynamic.pppoe.fregat.ua
+0 5 4 1797 1 1522908590
+-
+msnbot-207-46-13-200.search.msn.com
+0 1 0 497 0 0
+-
+static.customer-201-116-69-137.uninet-ide.com.mx
+0 1 0 497 1 1524277131
+-
+msnbot-40-77-167-69.search.msn.com
+0 1 1 325 1 1524331528
+/
+69.58.178.56
+0 4 3 17839 1 1523652987
+/www.cacaceasoc.com/Areas_de_Practica.html
+ns366803.ip-94-23-20.eu
+0 5 0 2485 0 0
+-
+google-proxy-66-249-85-2.google.com
+0 10 9 196813 0 0
+-
+180.97.106.164
+0 2 0 994 2 1524061528
+-
+researchscan271.eecs.umich.edu
+0 1 0 497 1 1524370296
+-
+46.161.14.13
+0 1 1 325 1 1524552633
+/
+28.red-81-47-134.staticip.rima-tde.net
+0 1 1 325 1 1524557837
+/
+203.248.118.189
+0 4 3 1472 1 1523780201
+/
+150.109.48.193
+0 4 0 1988 0 0
+-
+119.166.53.247
+0 1 0 497 1 1523680497
+-
+185.222.202.109
+0 1 0 497 1 1522936225
+/
+45.77.133.109.vultr.com
+0 6 0 2982 1 1524260536
+/
+msnbot-157-55-39-227.search.msn.com
+0 1 1 105285 0 0
+-
+ec2-35-170-115-211.compute-1.amazonaws.com
+0 1 1 325 1 1523099090
+/
+host118.170-51-110.telmex.net.ar
+0 60 59 863261 1 1522707628
+/www.cacaceasoc.com/Home.html
+baiduspider-180-76-15-135.crawl.baidu.com
+0 1 1 7227 1 1524234884
+/www.cacaceasoc.com/Home.html
+ip21.ip-51-38-12.eu
+0 1 1 325 1 1523765716
+/
+ec2-54-193-2-56.us-west-1.compute.amazonaws.com
+0 1 1 325 1 1524452100
+/
+msnbot-157-55-39-236.search.msn.com
+0 3 2 650 3 1523524011
+/
+baiduspider-180-76-15-142.crawl.baidu.com
+0 1 1 325 1 1523945365
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+112.66.96.4
+0 1 0 497 1 1524617969
+-
+baiduspider-180-76-15-149.crawl.baidu.com
+0 1 1 7227 1 1524614726
+/www.cacaceasoc.com/Home.html
+baiduspider-180-76-15-26.crawl.baidu.com
+0 1 0 497 0 0
+-
+baiduspider-180-76-15-8.crawl.baidu.com
+0 2 1 822 1 1524614725
+/
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 780
+http://cacaceasoc.com
+1 2
+https://google.com
+0 1
+http://www.cacaceasoc.com
+1 1
+http://cacaceasoc.com/
+1 8
+https://www.google.co.uk/
+0 1
+http://cacaceasoc.com/www.cacaceasoc.com/El_Estudio.html
+1 295
+http://cacaceasoc.com/www.cacaceasoc.com/Areas_de_Practica.html
+1 40
+http://www.cacaceasoc.com/robots.txt
+1 1
+http://test.cacaceasoc.com
+1 1
+http://cacaceasoc.com/www.cacaceasoc.com/English.html
+1 17
+http://www.cacaceasoc.com/www.cacaceasoc.com/Home.html
+1 12
+https://www.google.com/
+0 2
+http://cacaceasoc.com/www.cacaceasoc.com/Home.html
+1 67
+http://162.215.248.220/
+0 1
+http://wp.cacaceasoc.com
+1 1
+cacaceasoc.com
+1 1
+http://blog.cacaceasoc.com
+1 1
+http://www.netcraft.com/survey/
+0 1
+http://cacaceasoc.com/favicon.ico
+1 1
+http://www.google.com/
+0 2
+http://cacaceasoc.com/www.cacaceasoc.com/Socios_
+1 131
+http://cacaceasoc.com/blog/
+1 1
+https://www.google.com.ar/
+0 9
+http://google.com
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:50.0) Gecko/20100101 Firefox/50.0
+0 7
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+0 5
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 22
+Python-urllib/2.7
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Sa
+0 78
+Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG SM-J500M Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 C
+0 60
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 4
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/533.4 (KHTML, like Gecko) Chrome/5.0.375.99 Safari/533.4
+0 1
+Mozilla
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+0 2
+Go-http-client/1.1
+0 4
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+0 51
+python-requests/2.13.0
+0 1
+Mozilla/5.0 (compatible; ips-agent)
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+0 28
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safar
+0 1
+curl/7.40.0
+0 3
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+0 12
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2)
+0 8
+Zauba Crawler/1.0 (Zauba Search for Research; http://www.zauba.io/; admin@zauba.io)
+0 4
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2819.66 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+0 5
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0)
+0 1
+Mozilla/5.0 Gecko/20100101 Firefox/57.0
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/603.3.8 (KHTML, like Gecko)
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.75 Safari/537.36
+0 1
+NYU Internet Census (https://scan.lol; research@scan.lol)
+0 25
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+0 2
+curl/7.29.0
+0 2
+fasthttp
+0 1
+AccServer[PSVLONDENEH01]/5.10.14.2(41892) 64-bit HTTP-Agent
+0 2
+Mozilla/5.0
+0 45
+Mozilla/5.0 (Windows NT 5.1; rv:9.0.1) Gecko/20100101 Firefox/9.0.1
+0 3
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+0 3
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+0 1
+}__test|O:21:\"JDatabaseDriverMysqli\":3:{s:4:\"\\0\\0\\0a\";O:17:\"JSimplepieFactory\":0:{}s:21:\"\\0\\0\\0disconnectHandler
+0 1
+Googlebot/2.1 (+http://www.google.com/bot.html)
+0 15
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 147
+Mozilla/5.0 zgrab/0.x
+0 19
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 8.0.0; SM-G950F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile S
+0 60
+Wget(linux)
+0 18
+ZmEu
+0 6
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36
+0 17
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
+0 49
+Mozilla/5.0 (Linux; Android 6.0.1; HUAWEI RIO-L03 Build/HUAWEIRIO-L03) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.332
+0 12
+Mozilla/5.0 (Windows NT 6.1; rv:34.0) Gecko/20100101 Firefox/34.0
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.28) Gecko/20120306 Firefox/3.6.28 (.NET CLR 3.5.30729)
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+0 4
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64)
+0 3
+Mozilla/4.0 (compatible; Netcraft Web Server Survey)
+0 1
+Mozilla/5.0 (Linux; Android 7.0; SM-A510M Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile Sa
+0 41
+python-requests/2.18.4
+0 4
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36
+0 3
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.85 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; AlphaBot/3.2; +http://alphaseobot.com/bot.html)
+0 7
+Mozilla/5.0 (Windows NT 6.1; rv:5.0) Gecko/20100101 Firefox/5.0
+0 18
+Mozilla/5.0 (compatible; Nmap Scripting Engine; http://nmap.org/book/nse.html)
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+0 8
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36
+0 1
+Mozilla/5.0 (iPad; CPU OS 9_3_3 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13G34 Safari/601.1
+0 12
+CATExplorador/1.0beta (sistemes at domini dot cat; http://domini.cat/catexplorador.html)
+0 3
+Python-urllib/1.17
+0 1
+Mozilla/5.0 (Windows NT 5.1; rv:5.0) Gecko/20100101 Firefox/5.0
+0 2
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/603.2.4 (KHTML, like Gecko) Version/10.1.1 Safari/603.2.4
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+0 13
+Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox/6.0.2
+0 6
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 74
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+0 3
+Mozilla/7.0 (compatible; MSIE 8.0; Windows Seven)
+0 6
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
+0 5
+Opera/9.80 (X11; Linux x86_64) Presto/2.12.388 Version/12.16
+0 1
+User-Agent:Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; .NET CLR 1.0.3705
+0 1
+python-requests/2.10.0
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:47.0) Gecko/20100101 Firefox/47.0
+0 2
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36
+0 5
+Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+0 41
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+0 3
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:49.0) Gecko/20100101 Firefox/49.0
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:59.0) Gecko/20100101 Firefox/59.0
+0 6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.89 Safari/537.36
+0 2
+masscan/1.0 (https://github.com/robertdavidgraham/masscan)
+0 3
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:55.0) Gecko/20100101 Firefox/55.0
+0 1
+Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)
+0 2
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+0 3
+Mozilla/5.0 (Windows NT 6.2;en-US) AppleWebKit/537.32.36 (KHTML, live Gecko) Chrome/57.0.3035.72 Safari/537.32
+0 1
+libwww-perl/6.05
+0 2
+Mozilla/5.0 (Windows NT 5.1; rv:28.0) Gecko/20100101 Firefox/28.0
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_3) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.41 Safari/535.1
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b
+0 7
+Mozilla/5.0 (X11; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0
+0 1
+Telesphoreo
+0 4
+Mozilla/5.0 (compatible; DuckDuckGo-Favicons-Bot/1.0; +http://duckduckgo.com)
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+0 172
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+0 1
+python-requests/2.9.1
+0 5
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 4
+libwww-perl/6.33
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecho) Chrome/51.0.2704.84 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 4.4.4; SM-J100MU Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile
+0 13
+com.google.GoogleMobile/47.1.0 iPhone/11.2.6 hw/iPhone7_2
+0 1
+www.probethenet.com scanner
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Cen
+0 1
+Mozilla/5.0 (Windows NT 6.2;en-US) AppleWebKit/537.32.36 (KHTML, live Gecko) Chrome/52.0.3083.67 Safari/537.32
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.89 Safari/537.36
+0 4
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+0 6
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:30.N) Gecko/20110302 Firefox/30.0
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

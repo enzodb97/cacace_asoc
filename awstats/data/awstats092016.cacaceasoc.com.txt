@@ -1,0 +1,570 @@
+AWSTATS DATA FILE 6.8 (build 1.910)
+# If you remove this file, all statistics for date 201609 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 1915                
+POS_TIME 2594                
+POS_VISITOR 10215               
+POS_DAY 15220               
+POS_DOMAIN 3346                
+POS_LOGIN 3796                
+POS_ROBOT 3951                
+POS_WORMS 4474                
+POS_EMAILSENDER 4605                
+POS_EMAILRECEIVER 4748                
+POS_SESSION 15912               
+POS_SIDER 16070               
+POS_FILETYPES 4883                
+POS_OS 5038                
+POS_BROWSER 5147                
+POS_SCREENSIZE 5507                
+POS_UNKNOWNREFERER 5581                
+POS_UNKNOWNREFERERBROWSER 6323                
+POS_ORIGIN 6749                
+POS_SEREFERRALS 6888                
+POS_PAGEREFS 7045                
+POS_SEARCHWORDS 7253                
+POS_KEYWORDS 7405                
+POS_MISC 2258                
+POS_ERRORS 7464                
+POS_CLUSTER 3652                
+POS_SIDER_404 7565                
+POS_PLUGIN_geoip_city_maxmind 9024                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20161001003017 66 11978 12852224523376
+FirstTime 20160901044638
+LastTime 20160930135508
+LastUpdate 20161001063750 66 0 64 1 0
+TotalVisits 158                 
+TotalUnique 125                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 132                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 8 8 9502 19 19 22962
+1 7 7 9177 25 33 25573
+2 12 12 19902 30 31 63463
+3 7 7 2275 21 22 40270
+4 13 13 27494 23 26 46317
+5 5 5 1625 26 31 244212
+6 6 6 1625 20 30 70156
+7 10 75 1227058 10 10 10343
+8 9 29 730026 27 28 33092
+9 13 24 416297 24 30 24606
+10 10 30 737578 19 19 36078
+11 8 13 27926 16 16 17815
+12 10 30 730676 26 27 35882
+13 3 13 364688 24 24 29442
+14 8 30 739456 36 38 70732
+15 7 17 365988 24 34 52842
+16 4 21 605598 12 21 256368
+17 6 13 249112 18 23 75858
+18 7 18 469939 20 21 13669
+19 8 8 16404 21 21 36403
+20 7 17 372565 26 34 33886
+21 4 12 251187 48 57 76970
+22 9 9 9827 18 21 72009
+23 9 29 737253 33 40 206518
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 18
+us 77 115 1251291
+unknown 21 64 1588537
+cn 17 17 39710
+ar 14 175 4743295
+ua 8 8 2600
+ca 7 21 483445
+fr 7 7 2275
+gb 7 7 1950
+tr 6 6 1950
+ru 5 5 1625
+md 1 1 325
+mx 3 3 975
+ch 2 2 650
+kh 3 3 975
+vn 1 1 325
+it 2 2 650
+nl 4 4 1300
+de 5 5 1300
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 11
+bot[+:,\.\;\/\\-] 211 567794 20160930234141 0
+googlebot 105 638640 20160929141612 0
+baiduspider 29 106053 20160930224505 0
+mj12bot 14 119119 20160930141510 0
+no_user_agent 7 2275 20160930220855 0
+netcraft 6 15104 20160914082231 0
+surveybot 4 15104 20160928015340 0
+spider 2 650 20160929213933 0
+robot 2 650 20160904020704 0
+python 1 0 20160930183753 0
+msnbot\-media 1 7227 20160917061117 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+css 30 94543 0 0
+png 95 2780932 0 0
+html 190 396475 0 0
+jpg 2 1838 0 0
+xml 22 48334 0 0
+js 107 4801056 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 7
+macosx 31
+winxp 85
+winlong 1
+win2003 9
+winnt 170
+Unknown 37
+linux 113
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 24
+firefox5.0 1
+firefox48.0 2
+firefox42.0 1
+firefox3.0.4 1
+firefox26.0 1
+firefox29.0 8
+firefox49.0 12
+curl 1
+msie5.5 1
+firefox7.0.1 3
+firefox46.0 2
+firefox45.0 12
+firefox47.0 3
+firefox31.0 4
+msie8.0 32
+mozilla 18
+firefox37.0 1
+netscape5.0 15
+firefox14.0.1 3
+msie7.0 8
+firefox9.0.1 5
+wget 3
+Unknown 17
+safari 292
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 11
+Mozilla/5.0_(compatible;_Dataprovider/6.101;__https://www.dataprovider.com/) 20160923021922
+masscan/1.0_(https://github.com/robertdavidgraham/masscan) 20160930044913
+curl/7.43.0 20160912043356
+www.probethenet.com_scanner 20160916031224
+SafeDNSBot_(https://www.safedns.com/searchbot) 20160930022321
+Mozilla/5.0_Project_25499_(project25499.com) 20160906035508
+Mozilla/5.0_zgrab/0.x 20160930062906
+Mozilla/5.0_(compatible;_Nmap_Scripting_Engine;_http://nmap.org/book/nse.html) 20160910085948
+BlackBerry9000/4.6.0.167_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/102_ips-agent 20160905043624
+Scanbot 20160929115439
+redback/v0-570-g26f8c96 20160919094515
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 6
+SafeDNSBot_(https://www.safedns.com/searchbot) 20160930022321
+BlackBerry9000/4.6.0.167_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/102_ips-agent 20160905043624
+masscan/1.0_(https://github.com/robertdavidgraham/masscan) 20160930044913
+Scanbot 20160929115439
+redback/v0-570-g26f8c96 20160919094515
+www.probethenet.com_scanner 20160916031224
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 158 163
+From1 0 0
+From2 19 24
+From3 2 2
+From4 11 257
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 19 24
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://wp.cacaceasoc.com 1 1
+http://blog.cacaceasoc.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+400 7 1582
+404 267 121268
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 57
+/sitemap.xml 3 -
+/robots.txt 146 -
+/wordpress/ 1 -
+/manager/ 1 -
+/backup/backup.zip 1 -
+/admin.php 4 -
+/dec_234.pdf 4 -
+/OnlineUpdate/questions.php 1 -
+/hndUnblock.cgi 1 -
+/cgi/common.cgi 7 -
+/stssys.htm 6 -
+/language/en-GB/en-GB.xml 1 -
+/dec_248.pdf 4 -
+/dec_258.pdf 4 -
+/redirect.php 1 -
+/wp-admin/admin-ajax.php 2 -
+/admin/index.php 1 -
+/blog/ 2 http://cacaceasoc.com/blog/
+/license.txt 3 -
+/typo3/ 1 -
+/.git/config 2 -
+/backup/backup.tar.gz 1 -
+/wp/ 1 -
+/xmlrpc.php 4 -
+/license.php 1 -
+/tmUnblock.cgi 1 -
+http://180.163.113.82/check_proxy 3 -
+/index.php/admin 1 -
+/zabbix/index.php 1 -
+/phpMyAdmin 1 http://162.215.248.220/phpMyAdmin
+/www.cacaceasoc.com/scripts/iwebsite.js 1 -
+/blog/robots.txt 1 -
+/user/ 1 -
+/backup.zip 1 -
+/www.cacaceasoc.com/scripts/widgets/navbar/navbar.js 1 -
+/command.php 7 -
+/administrator/index.php 1 -
+/user/register 1 -
+/dec_235.pdf 4 -
+/r/errors.log 1 -
+/dec_212.pdf 4 -
+/www.cacaceasoc.com/socios_&_profesionales_files/socios_&_profesionales.js 1 -
+/wp-content/plugins/dzs-zoomsounds/admin/admin.js 1 -
+/HNAP1/ 1 http://162.215.248.220/
+/cacaceasoc.zip 1 -
+/%20www.cacaceasoc.com/Home.html 1 -
+/backup.tar.gz 1 -
+/administrator/ 2 -
+/manager/html 6 -
+/index.php 4 -
+/wp-includes/insmod.php 4 -
+/wp-login.php 7 -
+/logs 1 -
+/site.tar.gz 1 -
+/site.zip 1 -
+/feed2js/magpie_debug.php 1 http://cacaceasoc.com/feed2js/magpie_debug.php
+/admin/ 1 -
+END_SIDER_404
+
+# Plugin key - Pages - Hits - Bandwidth - Last access
+BEGIN_PLUGIN_geoip_city_maxmind 35
+unknown 0 146 0 0
+ar_rosario_21 0 65 0 0
+ar_buenos%20aires_07 0 55 0 0
+us_kansas%20city_mo 0 21 0 0
+ca_vancouver_bc 0 19 0 0
+us_mountain%20view_ca 0 17 0 0
+us_seattle_wa 0 13 0 0
+us_woodbridge_nj 0 13 0 0
+ar_tucumán_24 0 11 0 0
+ar_federal_08 0 11 0 0
+de_kiez_12 0 1 0 0
+ua_kiev_13 0 1 0 0
+md_chisinau_48 0 1 0 0
+nl_rotterdam_11 0 2 0 0
+kh_phnum%20pénh_11 0 3 0 0
+us_sterling_va 0 4 0 0
+cn_beijing_22 0 6 0 0
+us_san%20diego_ca 0 1 0 0
+cn_shenzhen_30 0 3 0 0
+gb_cambridge_c3 0 5 0 0
+ru_saint%20petersburg_66 0 1 0 0
+us_ann%20arbor_mi 0 8 0 0
+cn_chaoyang_19 0 2 0 0
+cn_haidian_22 0 1 0 0
+us_lake%20forest_ca 0 3 0 0
+us_los%20angeles_ca 0 1 0 0
+us_washington_dc 0 8 0 0
+vn_hanoi_44 0 1 0 0
+cn_fuzhou_07 0 1 0 0
+de_munich_02 0 1 0 0
+gb_alexandria_w7 0 2 0 0
+us_chicago_il 0 1 0 0
+mx_monterrey_19 0 1 0 0
+us_wakefield_ma 0 6 0 0
+ar_la%20plata_01 0 11 0 0
+END_PLUGIN_geoip_city_maxmind
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 132
+213.128.81.66 6 6 1950 20160930044913
+123.59.59.52 6 6 22656 20160915015537
+128.232.110.28 5 5 1300 20160916001330
+207.102.138.158 5 19 482795 20160902212445
+69.58.178.56 4 4 17667 20160905043627
+69.30.193.251 3 3 975 20160924002122
+183.129.160.229 3 3 975 20160930023249
+192.154.111.82 3 3 7877 20160929192314
+38.100.21.65 3 8 26301 20160920112228
+175.100.84.3 3 3 975 20160910091511
+181.164.108.74 1 11 364038 20160927164647
+142.54.174.86 1 1 325 20160919002931
+198.204.255.75 1 1 325 20160929071656
+104.193.88.244 2 2 7552 20160927045429
+181.110.35.123 1 12 364166 20160929072240
+139.162.13.205 2 2 650 20160929055912
+120.132.50.135 2 2 7552 20160903105512
+173.208.197.204 1 1 325 20160918145535
+182.118.53.28 1 1 325 20160930125740
+109.86.72.191 1 1 325 20160901044638
+89.248.172.98 1 1 325 20160921222834
+187.160.154.240 1 1 325 20160908184435
+146.185.135.199 1 1 325 20160930022321
+54.184.136.230 1 1 9425 20160911020712
+178.238.235.184 1 1 325 20160921052815
+69.30.226.220 1 1 325 20160928030833
+189.219.83.60 1 1 325 20160923015539
+63.141.231.211 1 1 325 20160923114856
+69.30.227.218 1 1 325 20160924021501
+109.237.111.200 1 1 325 20160919170630
+123.30.135.177 1 1 325 20160916034151
+66.249.85.2 0 3 250730 
+208.110.84.66 1 1 325 20160921071229
+142.54.174.83 1 1 325 20160919033519
+202.46.52.17 1 1 7227 20160926090626
+66.240.213.93 1 1 325 20160922115644
+190.225.125.38 1 11 364038 20160930122710
+202.46.58.112 1 1 325 20160926090625
+200.123.166.141 1 11 364038 20160902154635
+152.201.53.132 0 1 9302 
+188.165.206.188 1 1 325 20160917013951
+169.54.233.119 1 1 325 20160930135508
+173.208.197.202 1 1 325 20160923200221
+54.80.132.113 2 9 241235 20160925174606
+141.212.122.128 2 2 650 20160927150016
+199.30.228.134 2 4 11504 20160927095610
+186.77.132.246 0 1 9302 
+98.143.148.107 1 1 325 20160906035508
+181.44.7.127 0 1 103951 
+46.119.112.23 1 1 325 20160912065913
+78.27.140.4 1 1 325 20160903020902
+158.69.225.34 3 3 975 20160923021924
+69.30.226.221 1 1 325 20160927080009
+95.65.30.156 1 1 325 20160911191727
+216.198.212.199 2 2 650 20160916010347
+46.172.91.20 1 1 325 20160929115439
+109.236.8.10 1 1 325 20160919094515
+208.100.26.231 1 1 0 20160903094723
+192.154.111.74 3 3 7877 20160915191418
+190.230.115.2 1 11 364038 20160910235045
+185.100.87.190 1 1 0 20160910085948
+142.54.174.82 1 1 325 20160920073832
+66.249.83.155 2 2 650 20160916095739
+114.112.90.54 1 1 325 20160912043356
+54.154.150.103 1 1 325 20160916095727
+173.208.197.206 1 1 325 20160918125450
+80.82.64.239 1 1 325 20160929062108
+157.55.12.85 0 4 122193 
+192.99.10.173 1 1 325 20160908053225
+46.227.142.212 1 1 325 20160904013549
+104.128.144.131 1 1 325 20160916031224
+198.204.255.78 1 1 325 20160929102541
+192.154.105.58 3 3 7877 20160917235811
+190.2.98.60 3 53 738749 20160907073552
+125.77.28.26 1 1 0 20160930062906
+66.249.85.31 0 3 82529 
+186.137.217.36 1 11 364038 20160906202240
+189.218.43.96 1 1 325 20160930084832
+202.46.49.153 1 1 325 20160927042108
+168.1.128.59 1 1 325 20160909000533
+109.236.8.8 1 1 325 20160919094515
+186.13.2.236 1 11 364038 20160921085501
+212.47.248.81 1 1 325 20160912212544
+54.222.152.96 1 1 325 20160910124431
+190.210.107.249 1 11 364038 20160914102946
+142.54.174.84 1 1 325 20160921011131
+208.110.84.67 1 1 325 20160914080055
+66.249.85.4 1 5 30779 20160923084312
+104.250.158.10 3 3 7877 20160912223449
+201.216.194.33 1 11 364038 20160921135826
+188.138.105.84 1 1 325 20160901200347
+173.208.197.205 1 1 325 20160918070249
+91.210.146.75 3 3 975 20160905221703
+69.30.227.220 1 1 325 20160929151325
+104.156.231.254 1 1 325 20160917022712
+66.249.83.176 1 1 325 20160903202611
+69.30.193.253 2 2 650 20160926073023
+190.2.97.1 1 12 364166 20160905145404
+104.41.211.202 1 1 325 20160925080130
+200.45.234.34 1 11 364038 20160914121957
+152.168.156.145 1 11 364038 20160927100607
+199.30.228.152 0 9 387739 
+192.187.109.60 1 1 325 20160929132131
+94.125.95.28 1 1 325 20160903140938
+178.32.127.112 2 2 650 20160903142920
+141.212.122.16 2 2 650 20160929031716
+69.30.227.219 1 1 325 20160924065737
+191.18.59.46 1 11 364038 20160905230326
+141.212.122.49 2 2 650 20160923045024
+212.92.127.172 1 1 325 20160920112441
+66.249.83.156 2 2 14454 20160916095739
+62.210.80.20 2 2 650 20160917183557
+163.172.169.150 1 1 325 20160906123417
+69.30.193.252 2 2 650 20160925231954
+163.172.54.35 1 1 325 20160908071552
+212.83.179.44 1 1 325 20160921100740
+54.149.198.51 1 1 325 20160927043603
+190.229.243.80 1 11 364038 20160923185054
+198.204.255.74 2 2 650 20160929082611
+45.32.129.1 1 1 325 20160905230918
+190.220.203.61 1 11 364038 20160919140325
+149.202.206.103 1 1 325 20160924001351
+217.160.5.4 1 1 0 20160905174111
+141.212.122.32 2 2 650 20160910224133
+142.54.174.85 2 2 650 20160920103831
+208.110.84.70 2 2 650 20160925115244
+198.20.69.74 2 2 650 20160923181625
+66.249.83.182 1 1 7227 20160903202611
+212.92.127.201 1 1 325 20160922122246
+138.201.16.71 1 1 325 20160928145000
+198.20.87.98 1 1 325 20160921120231
+185.93.185.10 3 3 975 20160924140919
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 29
+20160901 3 3 650 3
+20160902 9 33 847808 6
+20160903 10 10 16729 8
+20160904 1 5 122518 1
+20160905 16 38 758098 11
+20160906 4 14 365013 4
+20160907 3 53 738749 1
+20160908 6 6 8852 5
+20160909 1 1 325 1
+20160910 8 18 365988 6
+20160911 6 6 24854 5
+20160912 8 9 113453 6
+20160914 3 23 728401 3
+20160915 7 7 16079 4
+20160916 8 8 9502 8
+20160917 7 7 9177 5
+20160918 4 4 1300 4
+20160919 6 16 365663 6
+20160920 7 12 27601 5
+20160921 12 32 731326 12
+20160922 3 3 975 3
+20160923 10 30 730676 8
+20160924 5 5 1625 5
+20160925 5 12 242210 4
+20160926 4 4 8202 4
+20160927 10 42 1145473 8
+20160928 3 3 975 3
+20160929 13 24 374968 11
+20160930 8 18 365988 8
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+30s-2mn 2
+0s-30s 156
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 11
+/ 145 45500 132 121
+/www.cacaceasoc.com/Socios_%26_Profesionales.html 18 169650 18 17
+/www.cacaceasoc.com/Home.html 16 115632 4 14
+/www.cacaceasoc.com/Areas_de_Practica.html 2 19580 0 2
+http://www.mafengwo.cn/www.cacaceasoc.com/Home.html 2 14454 0 2
+http://www.mafengwo.cn/ 2 650 2 0
+http://www.ctrip.com/www.cacaceasoc.com/Home.html 1 7227 0 1
+http://www.elong.com/ 1 325 1 0
+http://www.ctrip.com/ 1 325 1 0
+http://www.elong.com/www.cacaceasoc.com/Home.html 1 7227 0 1
+/www.cacaceasoc.com/El_Estudio.html 1 15905 0 0
+END_SIDER
